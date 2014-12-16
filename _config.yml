@@ -11,6 +11,14 @@ navigation:
     url: /ordering/
   - label: Analyses
     url: /analyses/
+  - label: Data delivery
+    url: /data-delivery/
+  - label: Sample requirements
+    url: /sample-requirements/
+  - label: Support and contact
+    url: /support-contact/
+  - label: Library preparation and sequencing
+    url: /library-sequencing/
 
 # Build settings
 markdown: kramdown
