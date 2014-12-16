@@ -31,12 +31,17 @@
     </div>
     <div class="cg-sidebar-body">
       <div class="cg-list">
-        <a href="/ordering" class="cg-list-item">Ordering</a>
-        <a href="/analyses" class="cg-list-item">Analyses</a>
-        <a href="/data-delivery" class="cg-list-item">Data delivery</a>
-        <a href="/sample-requirements" class="cg-list-item">Sample requirements</a>
-        <a href="/support-contact" class="cg-list-item">Support and contact</a>
-        <a href="/accreditation" class="cg-list-item">Accreditation</a>
+
+        {% for link in site.navigation %}
+          {% assign current = nil %}
+          {% if page.url == link.url %}
+            {% assign current = 'current' %}
+          {% endif %}
+
+          <a href="{{ link.url }}" class="cg-list-item {{ current }}">
+            {{ link.label }}
+          </a>
+        {% endfor %}
       </div>
     </div>
     <div class="cg-sidebar-footer">

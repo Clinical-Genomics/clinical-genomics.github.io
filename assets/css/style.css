@@ -109,6 +109,8 @@ html, body {
   text-decoration: none; }
   .cg-list-item:hover {
     background-color: rgba(217, 224, 226, 0.2); }
+  .cg-list-item.current {
+    background-color: rgba(239, 124, 0, 0.2); }
 
 .cg-logo {
   height: 60px; }

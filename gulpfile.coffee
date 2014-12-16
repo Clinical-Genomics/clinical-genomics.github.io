@@ -22,7 +22,7 @@ gulp.task 'browser-sync', ->
 
 # CSS task - finds and compiles all SCSS files
 gulp.task 'css', ->
-  return gulp.src './scss/style.scss'
+  return gulp.src './_scss/style.scss'
     .pipe sass { errLogToConsole: yes }
     .pipe autoprefixer
       browsers: ['last 2 versions']
@@ -34,7 +34,7 @@ gulp.task 'css', ->
 
 # rerun tasks whenever a file changes.
 gulp.task 'watch', ->
-  gulp.watch './scss/**/*.scss', ['css']
+  gulp.watch './_scss/**/*.scss', ['css']
 
 
 # default task (called when we run `gulp` from cli)

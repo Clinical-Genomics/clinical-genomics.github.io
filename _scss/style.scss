@@ -126,6 +126,10 @@ $sidebar-width: 325px;
   &:hover {
     background-color: rgba($border-color, .2);
   }
+
+  &.current {
+    background-color: rgba($primary-color, .2);
+  }
 }
 
 .cg-logo {
