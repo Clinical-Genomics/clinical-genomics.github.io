@@ -1,0 +1,30 @@
+// API variables
+$primary-color: #ef7c00;
+$border-color: #d9e0e2;
+$box-shadow: 0 2px 0 rgba(217, 224, 226, .3);
+
+// resets
+html {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  font-size: 100%;
+  font-family: Roboto;
+  line-height: 1.6rem;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+// utility classes
+.flex {
+  flex: 1;
+}

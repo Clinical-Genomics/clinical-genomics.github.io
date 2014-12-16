@@ -1,0 +1,14 @@
+# Site settings
+title: Clinical Genomics customer portal
+email: robin.andeer@scilifelab.se
+description: >
+  Public customer portal at SciLifeLab Clinical Genomics.
+baseurl: ""
+url: "http://www.clinicalgenomics.se"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+sass:
+  sass_dir: _sass
+exclude: ['node_modules']

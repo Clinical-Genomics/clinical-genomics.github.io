@@ -1,0 +1,199 @@
+// Inspired by http://thenextweb.com/
+// http://www.google.com/design/spec/layout/principles.html#
+// https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html#//apple_ref/doc/uid/TP40014097-CH11-XID_151
+
+@import "global";
+
+$sidebar-width: 325px;
+
+.cg-sidebar-toogle {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+
+  border: 1px solid $border-color;
+  border-radius: 3px;
+  text-align: center;
+  white-space: nowrap;
+  padding: .3rem .5rem;
+  cursor: pointer;
+  box-shadow: $box-shadow;
+  text-decoration: none;
+  background-color: #fff;
+  transition: all .2s;
+
+  &:hover {
+    background-color: rgba($border-color, .1);
+  }
+
+  &:active {
+    background-color: #f8f9fa;
+    box-shadow: inset $box-shadow;
+    color: #4e5860;
+  }
+
+  &.toggle-on {
+    margin-left: $sidebar-width;
+  }
+
+  @media (min-width: 960px) {
+    display: none;
+  }
+}
+
+.cg-sidebar {
+  width: $sidebar-width;
+  float: left;
+  height: 100%;
+  position: relative;
+
+  transition: all .2s;
+  margin-left: -$sidebar-width;
+
+  background-color: #fff;
+  border-right: 1px solid $border-color;
+
+  &.is-visible {
+    margin-left: 0;
+  }
+
+  @media (min-width: 960px) {
+    margin-left: 0;
+  }
+}
+
+.cg-sidebar-header {
+  padding: 1.5rem 1rem 0;
+
+  border-bottom: 1px solid $border-color;
+  box-shadow: $box-shadow;
+
+  > * {
+    margin-bottom: 1.5rem;
+  }
+}
+
+.cg-sidebar-body {
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+
+  padding-bottom: 3rem;
+}
+
+.cg-sidebar-footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: $sidebar-width - 1px;
+
+  padding: 1rem;
+
+  text-align: center;
+  font-size: .9rem;
+  color: rgba(#000, .7);
+  background-color: #fff;
+  border-top: 1px solid $border-color;
+  box-shadow: 0 -2px 0 rgba(217, 224, 226, .3);
+}
+
+.cg-content {
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.cg-main {
+  padding: 2rem;
+}
+
+.cg-main {
+  width: 98%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.cg-list {
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.cg-list-item {
+  display: block;
+  padding: 1rem;
+  border-bottom: 1px solid $border-color;
+  text-decoration: none;
+
+  &:hover {
+    background-color: rgba($border-color, .2);
+  }
+}
+
+.cg-logo {
+  height: 60px;
+}
+
+.cg-logo-label {
+  font-size: 1.5rem;
+  color: #444;
+  height: 100%;
+  float: left;
+  padding-top: .55rem;
+}
+
+.cg-logo-label-title {
+  text-decoration: none;
+  color: inherit;
+}
+
+.cg-logo-label-subtitle {
+  font-size: .9rem;
+  color: rgba(#000, .7);
+}
+
+.cg-logo-icon {
+  float: left;
+  margin-right: 1.5rem;
+
+  > img {
+    width: 60px;
+    height: 60px;
+  }
+}
+
+.cg-sheet {
+  display: table;
+  width: 100%;
+  font-size: .9rem;
+}
+
+.cg-sheet-button {
+  border: 1px solid $border-color;
+  border-right: none;
+  display: table-cell;
+  text-align: center;
+  white-space: nowrap;
+  padding: .3rem 0;
+  cursor: pointer;
+  box-shadow: $box-shadow;
+  text-decoration: none;
+  background-color: #fff;
+
+  &:hover {
+    background-color: rgba($border-color, .1);
+  }
+
+  &:active {
+    background-color: #f8f9fa;
+    box-shadow: inset $box-shadow;
+    color: #4e5860;
+  }
+
+  &:first-child {
+    border-radius: 3px 0 0 3px;
+  }
+
+  &:last-child {
+    border-radius: 0 3px 3px 0;
+    border-right: 1px solid $border-color;
+  }
+}
