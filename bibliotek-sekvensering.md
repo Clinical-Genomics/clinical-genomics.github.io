@@ -2,7 +2,7 @@
 layout: base
 ---
 
-# Library preparation and sequencing
+# Biblioteksprepp och sekvensering
 
 ## Whole-genome sequencing
 DNA samples are first sheared to an average of 350 bp using Covaris S2 focused ultrasonicator. Next the fragmented DNA undergoes a number of enzymatic reactions, a size selection step and several clean up steps to yield a final product that is an adaptor-ligated library with a unique identifier, index, for each sample.

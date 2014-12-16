@@ -7,18 +7,18 @@ baseurl: ""
 url: "http://www.clinicalgenomics.se"
 
 navigation:
-  - label: Ordering
-    url: /ordering/
-  - label: Analyses
-    url: /analyses/
-  - label: Data delivery
-    url: /data-delivery/
-  - label: Sample requirements
-    url: /sample-requirements/
-  - label: Support and contact
-    url: /support-contact/
-  - label: Library preparation and sequencing
-    url: /library-sequencing/
+  - label: Ordrar
+    url: /ordrar/
+  - label: Analyser
+    url: /analyser/
+  - label: Dataleveranser
+    url: /dataleveranser/
+  - label: Krav på prover
+    url: /provkrav/
+  - label: Support och kontakt
+    url: /support-kontakt/
+  - label: Biblioteksprepp och sekvensering
+    url: /bibliotek-sekvensering/
 
 # Build settings
 markdown: kramdown

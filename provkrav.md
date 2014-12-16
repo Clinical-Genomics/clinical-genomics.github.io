@@ -2,4 +2,4 @@
 layout: base
 ---
 
-# Sample Requirements
+# Krav på prover

@@ -2,7 +2,7 @@
 layout: base
 ---
 
-# Ordering
+# Ordrar
 
 For ordering, please contact us via our customer portal [https://clinical-scilifelab.supportsystem.com/open.php](https://clinical-scilifelab.supportsystem.com/open.php).
 
