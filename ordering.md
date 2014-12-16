@@ -20,3 +20,7 @@ Please read [Sample requirements](https://clinical-scilifelab.supportsystem.com/
 5. Include the Order Form and and gel images (optional) as attachments, max size is 2 MB per file.
 6. Mark the sample plate / tubes and the delivery box with the Ticket Number received by mail.
 7. Deliver the samples.
+
+## Order forms
+- [Order form](#)
+- [Order form for ready made libraries](#)
