@@ -2,6 +2,7 @@
 layout: base
 ---
 
+<img src="http://rikarderlandsson.se/images/IMG_0862.jpg" width="330">
 # Vi är Clinical Genomics.
 <img src="{{ '/assets/img/modernist-brewery.jpg' | prepend: site.baseurl }}" width="700">
 
