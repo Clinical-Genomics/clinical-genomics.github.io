@@ -25,4 +25,4 @@ markdown: kramdown
 permalink: pretty
 sass:
   sass_dir: _sass
-exclude: ['node_modules']
+exclude: ["node_modules"]
