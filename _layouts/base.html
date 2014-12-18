@@ -4,8 +4,6 @@
 
 <body>
 
-  <div class="cg-sidebar-toogle">Meny</div>
-
   <aside class="cg-sidebar">
     <div class="cg-sidebar-header">
       <div class="cg-logo">
@@ -31,7 +29,6 @@
     </div>
     <div class="cg-sidebar-body">
       <div class="cg-list">
-
         {% for link in site.navigation %}
           {% assign current = nil %}
           {% if page.url == link.url %}
@@ -51,6 +48,8 @@
 
   <main class="cg-content">
     <div class="cg-main">
+      <div class="cg-sidebar-toogle">Meny</div>
+
       {{ content }}
     </div>
   </main>
@@ -76,7 +75,7 @@
 
   {% unless site.develop == nil %}
   <script type='text/javascript' id="__bs_script__">//<![CDATA[
-    document.write("<script async src='//HOST:3001/browser-sync/browser-sync-client.1.7.2.js'><\/script>".replace(/HOST/g, location.hostname).replace(/PORT/g, location.port));
+    document.write("<script async src='//HOST:3000/browser-sync/browser-sync-client.1.7.2.js'><\/script>".replace(/HOST/g, location.hostname).replace(/PORT/g, location.port));
 //]]></script>
   {% endunless %}
 

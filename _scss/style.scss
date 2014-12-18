@@ -5,22 +5,19 @@
 @import "global";
 
 $sidebar-width: 325px;
+$sidebar-bg: #f8f9fa;
 
 .cg-sidebar-toogle {
-  position: fixed;
-  top: 1rem;
-  left: 1rem;
-
   border: 1px solid $border-color;
   border-radius: 3px;
   text-align: center;
   white-space: nowrap;
-  padding: .3rem .5rem;
   cursor: pointer;
   box-shadow: $box-shadow;
   text-decoration: none;
   background-color: #fff;
   transition: all .2s;
+  padding: .4rem;
 
   &:hover {
     background-color: rgba($border-color, .1);
@@ -32,9 +29,7 @@ $sidebar-width: 325px;
     color: #4e5860;
   }
 
-  &.toggle-on {
-    margin-left: $sidebar-width;
-  }
+  &.toggle-on {}
 
   @media (min-width: 960px) {
     display: none;
@@ -50,7 +45,7 @@ $sidebar-width: 325px;
   transition: all .2s;
   margin-left: -$sidebar-width;
 
-  background-color: #fff;
+  background-color: $sidebar-bg;
   border-right: 1px solid $border-color;
 
   &.is-visible {
@@ -63,9 +58,13 @@ $sidebar-width: 325px;
 }
 
 .cg-sidebar-header {
+  position: relative;
+  z-index: 1;
+
   padding: 1.5rem 1rem 0;
 
-  border-bottom: 1px solid $border-color;
+  background-color: darken($sidebar-bg, 3%);
+  border-bottom: 1px solid darken($sidebar-bg, 10%);
   box-shadow: $box-shadow;
 
   > * {
@@ -75,14 +74,17 @@ $sidebar-width: 325px;
 
 .cg-sidebar-body {
   position: relative;
-  overflow: hidden;
+  z-index: 0;
+  overflow-y: scroll;
   height: 100%;
 
-  padding-bottom: 3rem;
+  // clear header + footer space
+  padding-bottom: 20rem;
 }
 
 .cg-sidebar-footer {
   position: absolute;
+  z-index: 1;
   left: 0;
   bottom: 0;
   width: $sidebar-width - 1px;
@@ -92,14 +94,14 @@ $sidebar-width: 325px;
   text-align: center;
   font-size: .9rem;
   color: rgba(#000, .7);
-  background-color: #fff;
-  border-top: 1px solid $border-color;
+  background-color: darken($sidebar-bg, 3%);
+  border-top: 1px solid darken($sidebar-bg, 10%);
   box-shadow: 0 -2px 0 rgba(217, 224, 226, .3);
 }
 
 .cg-content {
   height: 100%;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 .cg-main {
@@ -112,10 +114,7 @@ $sidebar-width: 325px;
   margin: 0 auto;
 }
 
-.cg-list {
-  height: 100%;
-  overflow-y: scroll;
-}
+.cg-list {}
 
 .cg-list-item {
   display: block;
