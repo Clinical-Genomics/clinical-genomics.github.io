@@ -22,5 +22,5 @@ Please read [Sample requirements](https://clinical-scilifelab.supportsystem.com/
 7. Deliver the samples.
 
 ## Order forms
-- [Order form](#)
-- [Order form for ready made libraries](#)
+- [Order form](/)
+- [Order form for ready made libraries](/)

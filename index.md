@@ -2,10 +2,10 @@
 layout: base
 ---
 
-<img src="http://rikarderlandsson.se/images/IMG_0862.jpg" width="333">
+<img src="http://rikarderlandsson.se/images/IMG_0862.jpg" width="333" alt="RE beer">
 
 # Vi är Clinical Genomics.
-<img src="{{ '/assets/img/modernist-brewery.jpg' | prepend: site.baseurl }}" width="700">
+<img src="{{ '/assets/img/modernist-brewery.jpg' | prepend: site.baseurl }}" width="700" alt="VW beer">
 
 ## Nyheter
 Inga nyheter idag.
