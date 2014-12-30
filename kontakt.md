@@ -7,21 +7,20 @@ Förfrågningar angående nya eller pågående analyser inom existerande projekt
 
 Förfrågningar angående nya projekt till [Valtteri Wirta](mailto:valtteri.wirta@scilifelab.se).
 
-## Besöksadress:
+**Telefon**: 08- 524 81 500
+
+### Besöksadress:
 
 	Science for Life Laboratory
 	Gamma 4
 	Tomtebodavägen 23A, Solna
 
 
-## Postadress:
+### Postadress:
 
 	Clinical Genomics
 	Box 1031
 	171 21 Solna
 
-## Telefon:
-08- 524 81 500
-
-## Hemsida på SciLifeLab:
+### Hemsida på SciLifeLab:
 [http://www.scilifelab.se/facilities/clinical-genomics/](http://www.scilifelab.se/facilities/clinical-genomics/)
