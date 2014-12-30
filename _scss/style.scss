@@ -5,9 +5,9 @@
 @import "global";
 
 table {
-  font-size: .9rem;
-  border-spacing: 0;
   border-collapse: collapse;
+  border-spacing: 0;
+  font-size: .9rem;
 }
 
 thead {
@@ -18,7 +18,8 @@ th {
   text-align: left;
 }
 
-td, th {
+td,
+th {
   border: 1px solid $border-color;
   padding: .5rem;
 }
@@ -27,8 +28,19 @@ tbody:nth-child(odd) {
   background-color: lighten($border-color, 10%);
 }
 
+// Typography
+h1 {
+  font-weight: 300;
+  font-size: 3rem;
+  color: $primary-color;
+}
+
+p {
+  color: #4e5860;
+}
+
 $sidebar-width: 325px;
-$sidebar-bg: #f8f9fa;
+$sidebar-bg: #fff;
 
 .cg-sidebar-toogle {
   border: 1px solid $border-color;
@@ -86,7 +98,6 @@ $sidebar-bg: #f8f9fa;
 
   padding: 1.5rem 1rem 0;
 
-  background-color: darken($sidebar-bg, 3%);
   border-bottom: 1px solid darken($sidebar-bg, 10%);
   box-shadow: $box-shadow;
 
@@ -117,24 +128,24 @@ $sidebar-bg: #f8f9fa;
   text-align: center;
   font-size: .9rem;
   color: rgba(#000, .7);
-  background-color: darken($sidebar-bg, 3%);
+  background-color: #fff;
   border-top: 1px solid darken($sidebar-bg, 10%);
-  box-shadow: 0 -2px 0 rgba(217, 224, 226, .3);
+  box-shadow: 0 -3px 1px -1px $box-shadow-color;
 }
 
 .cg-content {
+  background-color: #f8f9fa;
   height: 100%;
   overflow-y: auto;
 }
 
 .cg-main {
-  padding: 2rem;
-}
-
-.cg-main {
-  width: 98%;
+  background-color: #fff;
+  border: 1px solid #d9e0e2;
+  margin: 2rem auto;
   max-width: 800px;
-  margin: 0 auto;
+  padding: 1rem 3rem;
+  width: 98%;
 }
 
 .cg-list {}

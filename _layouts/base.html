@@ -32,7 +32,9 @@
       <div class="cg-list">
         {% for link in site.navigation %}
           {% assign current = nil %}
-          {% if page.url == link.url %}
+          <!-- handle non-standard characters -->
+          {% assign escaped_url = link.url | uri_escape %}
+          {% if page.url == escaped_url %}
             {% assign current = 'current' %}
           {% endif %}
 

@@ -1,7 +1,9 @@
 // API variables
 $primary-color: #ef7c00;
 $border-color: #d9e0e2;
-$box-shadow: 0 2px 2px -1px rgba(#000, .05);
+
+$box-shadow-color: rgba(#000, .05);
+$box-shadow: 0 3px 2px -1px $box-shadow-color;
 
 // resets
 html {
