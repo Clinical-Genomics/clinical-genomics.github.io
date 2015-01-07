@@ -1,0 +1,35 @@
+// +-------------------------------------------------------------------+
+// |  Base Typography
+// +-------------------------------------------------------------------+
+// Source Sans Pro is a great all-around font. Simple as that.
+$sans-serif: 'Source Sans Pro', 'Roboto', 'Helvetica Neue', Helvetica, sans-serif;
+
+$base-font-family: $sans-serif;
+$header-font-family: $base-font-family;
+
+// +-------------------------------------------------------------------+
+// |  Sizes
+// +-------------------------------------------------------------------+
+$base-font-size: 1rem;
+$base-line-height: $base-font-size * 1.5;
+
+// +-------------------------------------------------------------------+
+// |  Colors
+// +-------------------------------------------------------------------+
+$primary-color: #ef7c00;
+
+// font colors
+$base-font-color: #4e5860;
+$base-accent-color: $primary-color;
+
+// background
+$background-color: darken($primary-color, 30%);
+
+// text link colors
+$base-link-color: $base-accent-color;
+$hover-link-color: lighten($base-accent-color, 5%);
+
+$border-color: #d9e0e2;
+
+$box-shadow-color: rgba(#000, .05);
+$box-shadow: 0 3px 2px -1px $box-shadow-color;

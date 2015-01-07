@@ -1,0 +1,38 @@
+// +-------------------------------------------------------------------+
+// |  Site typography
+// +-------------------------------------------------------------------+
+body,
+html {
+  color: $base-font-color;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  @include font-smoothing(antialiased);
+}
+
+// +-------------------------------------------------------------------+
+// |  Links
+// +-------------------------------------------------------------------+
+a {
+  text-decoration: none;
+}
+
+p a {
+  &:hover {
+    border-bottom: 1px solid darken($primary-color, 5%);
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  // fix character spacing for headings
+  text-rendering: optimizeLegibility;
+}
+
+h3 {
+  margin-bottom: .3rem;
+}

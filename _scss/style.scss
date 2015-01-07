@@ -2,7 +2,27 @@
 // http://www.google.com/design/spec/layout/principles.html#
 // https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html#//apple_ref/doc/uid/TP40014097-CH11-XID_151
 
-@import "global";
+// +-------------------------------------------------------------------+
+// |  Resets
+// +-------------------------------------------------------------------+
+@import 'framework/normalize';
+
+// +-------------------------------------------------------------------+
+// |  Framework
+// +-------------------------------------------------------------------+
+@import 'framework/api';         // Public API variables
+@import 'framework/mixins';      // Mixin helpers
+@import 'framework/typography';
+@import 'framework/basics';
+
+html {
+  overflow: hidden;
+}
+
+img {
+  // responsive
+  max-width: 100%;
+}
 
 table {
   border-collapse: collapse;
@@ -30,13 +50,9 @@ tbody:nth-child(odd) {
 
 // Typography
 h1 {
-  font-weight: 300;
+  font-weight: 400;
   font-size: 3rem;
   color: $primary-color;
-}
-
-p {
-  color: #4e5860;
 }
 
 $sidebar-width: 325px;
@@ -142,6 +158,7 @@ $sidebar-bg: #fff;
 .cg-main {
   background-color: #fff;
   border: 1px solid #d9e0e2;
+  border-radius: 2px;
   margin: 2rem auto;
   max-width: 800px;
   padding: 1rem 3rem;
