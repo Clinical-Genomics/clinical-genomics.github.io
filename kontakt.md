@@ -11,16 +11,20 @@ Förfrågningar angående nya projekt till [Valtteri Wirta](mailto:valtteri.wirt
 
 ### Besöksadress:
 
-	Science for Life Laboratory
-	Gamma 4
-	Tomtebodavägen 23A, Solna
+<address>
+	Science for Life Laboratory <br>
+	Gamma 4 <br>
+	Tomtebodavägen 23A, Solna <br>
+</address>
 
 
 ### Postadress:
 
-	Clinical Genomics
-	Box 1031
-	171 21 Solna
+<address>
+	Clinical Genomics <br>
+	Box 1031 <br>
+	171 21 Solna <br>
+</address>
 
 ### Hemsida på SciLifeLab:
 [http://www.scilifelab.se/facilities/clinical-genomics/](http://www.scilifelab.se/facilities/clinical-genomics/)
