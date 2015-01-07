@@ -3,7 +3,7 @@ layout: base
 ---
 
 # Beställningar
-Beställningar inom pågående projekt görs via vår portal på [www.clinicalgenomics.se](www.clinicalgenomics.se).
+Beställningar inom pågående projekt görs via vår portal på [www.clinicalgenomics.se](http://www.clinicalgenomics.se).
 
 För att diskutera nya projekt, kontakta [Valtteri Wirta](mailto:valtteri.wirta@scilifelab.se).
 
