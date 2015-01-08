@@ -6,6 +6,10 @@ description: >
 baseurl: ""
 url: "http://www.clinicalgenomics.se"
 
+collections:
+  pages:
+    output: true
+
 navigation:
   - label: Beställningar
     url: /beställningar/
