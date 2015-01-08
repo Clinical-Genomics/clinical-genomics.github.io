@@ -1,6 +1,7 @@
 ---
 layout: base
 permalink: /dataleverans/
+title: Dataleveranser
 ---
 
 # Dataleverans

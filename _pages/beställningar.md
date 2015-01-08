@@ -1,6 +1,7 @@
 ---
 layout: base
 permalink: /beställningar/
+title: Beställningar
 ---
 
 # Beställningar

@@ -1,6 +1,7 @@
 ---
 layout: base
 permalink: /kontakt/
+title: Kontakt
 ---
 
 # Kontakt

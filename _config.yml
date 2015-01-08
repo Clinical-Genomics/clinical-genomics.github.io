@@ -10,18 +10,6 @@ collections:
   pages:
     output: true
 
-navigation:
-  - label: Beställningar
-    url: /beställningar/
-  - label: Analyser
-    url: /analyser/
-  - label: Dataleverans
-    url: /dataleverans/
-  - label: Krav på prover
-    url: /provkrav/
-  - label: Kontakt
-    url: /kontakt/
-
 # Build settings
 markdown: kramdown
 permalink: pretty
