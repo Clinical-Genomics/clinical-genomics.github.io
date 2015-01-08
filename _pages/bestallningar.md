@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /beställningar/
+permalink: /bestallningar/
 title: Beställningar
 ---
 
