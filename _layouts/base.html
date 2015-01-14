@@ -30,16 +30,14 @@
     </div>
     <div class="cg-sidebar-body">
       <div class="cg-list">
-        {% for link in site.navigation %}
+        {% for link in site.collections.pages.docs %}
           {% assign current = nil %}
-          <!-- handle non-standard characters -->
-          {% assign escaped_url = link.url | uri_escape %}
-          {% if page.url == escaped_url %}
+          {% if page.url == link.url %}
             {% assign current = 'current' %}
           {% endif %}
 
           <a href="{{ link.url }}" class="cg-list-item {{ current }}">
-            {{ link.label }}
+            {{ link.title }}
           </a>
         {% endfor %}
       </div>

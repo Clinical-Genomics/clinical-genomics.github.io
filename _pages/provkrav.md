@@ -1,5 +1,7 @@
 ---
 layout: base
+permalink: /provkrav/
+title: Krav på prover
 ---
 
 # Provkrav

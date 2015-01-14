@@ -6,17 +6,9 @@ description: >
 baseurl: ""
 url: "http://www.clinicalgenomics.se"
 
-navigation:
-  - label: Beställningar
-    url: /beställningar/
-  - label: Analyser
-    url: /analyser/
-  - label: Dataleverans
-    url: /dataleverans/
-  - label: Krav på prover
-    url: /provkrav/
-  - label: Kontakt
-    url: /kontakt/
+collections:
+  pages:
+    output: true
 
 # Build settings
 markdown: kramdown

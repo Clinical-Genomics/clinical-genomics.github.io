@@ -1,5 +1,7 @@
 ---
 layout: base
+permalink: /bestallningar/
+title: Beställningar
 ---
 
 # Beställningar

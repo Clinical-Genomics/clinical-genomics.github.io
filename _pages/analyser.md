@@ -1,5 +1,7 @@
 ---
 layout: base
+permalink: /analyser/
+title: Analyser
 ---
 
 # Analyser
