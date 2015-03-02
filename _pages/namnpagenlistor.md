@@ -1,12 +1,12 @@
 ---
 layout: base
-permalink: /genlistanamn/
-title: Gen Lista Namn
+permalink: /namnpagenlistor/
+title: Namn på genlistor
 ---
 
-# Gen Lista Namn
+# Namn på genlistor
 
-|Database|Beskrivning|Version|Datum|
+|Databas|Beskrivning|Version|Datum|
 |---|---|---|---|
 |16PDEL|All genes within interval 16:16,043,433-16:17,564,737|15.1|20150206|
 |AD|Alfa Dystroglykanopathi|15.1|20141203|
