@@ -6,8 +6,8 @@ title: Gene Lista Namn
 
 # Gene Lista Namn
 
-
-|----|----|----|----|
+|Database|Fullname|Version|Date|
+|---|---|---|---|
 |16PDEL|All genes within interval 16:16,043,433-16:17,564,737|15.1|20150206|
 |AD|Alfa Dystroglykanopathi|15.1|20141203|
 |ANNAL|AnnaL list|15.1|20150206|
@@ -26,5 +26,5 @@ title: Gene Lista Namn
 |PID-20150120||5.2|20150130|
 |SHANK1|SH3 and multiple ankyrin repeat domains 1|15.1|20141028|
 |SKD|Skeletal dysplasia|15.1|20150120|
-|----|----|----|----|
+
 
