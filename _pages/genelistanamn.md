@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /genelistnames
+permalink: /genelistanamn/
 title: Gene Lista Namn
 ---
 
