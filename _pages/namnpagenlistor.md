@@ -10,12 +10,11 @@ title: Namn på genlistor
 |---|---|---|---|
 |16PDEL|All genes within interval 16:16,043,433-16:17,564,737|10.0|2015-02-06|
 |AD|Alfa Dystroglykanopathy|6.0|2014-12-03|
-|ANNAL|AnnaL list|12.0|2015-02-06|
 |ATX|Neutropenia, Spastic Paraplegia, Ataxia|13.0|2015-02-09|
 |CILM|Ciliopathy|4.3|2014-11-20|
 |CM|Congenital Myopathy and centronuclear myopathy|13.0|2015-02-12|
 |CMMS||3.5|2015-03-02|
-|DSD|Disorders of Sex Development|16.0|2015-03-05|
+|DSD||16.0|2015-03-05|
 |MLD|Metachromatic LeukoDystrophy|15.1|2015-02-17|
 |MTM1|Myotubular myopathy|7.0|2015-01-19|
 |NJU|Kidney cancer|9.0|2015-02-02|
@@ -27,3 +26,4 @@ title: Namn på genlistor
 |PID-20150120||4.0|2015-01-30|
 |SHANK1|SH3 and multiple ankyrin repeat domains 1|2.2|2014-10-28|
 |SKD|Skeletal dysplasia|8.0|2015-01-20|
+|horsel|Hörsel panel|17.0|2015-03-09|
