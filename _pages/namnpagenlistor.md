@@ -26,4 +26,4 @@ title: Namn på genlistor
 |PID-20150120||4.0|2015-01-30|
 |SHANK1|SH3 and multiple ankyrin repeat domains 1|2.2|2014-10-28|
 |SKD|Skeletal dysplasia|8.0|2015-01-20|
-|horsel|Hörsel panel|17.0|2015-03-09|
+|horsel|Hörsel panel|17.1|2015-03-09|
