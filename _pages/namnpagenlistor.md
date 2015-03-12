@@ -22,7 +22,7 @@ title: Namn på genlistor
 |OMIM|Online Mendelian Inheritance in Man of 141201|10.0|2015-02-03|
 |ORO|Oro-facial-digital syndrome|1.0|2014-10-17|
 |PAF1|RNA polymerase II-associated factor|7.0|2015-01-19|
-|PID|Primary Immune Deficiency|5.1|2015-01-30|
+|PID|Primary Immune Deficiency|6.0|2015-03-12|
 |PID-20150120||4.0|2015-01-30|
 |SHANK1|SH3 and multiple ankyrin repeat domains 1|2.2|2014-10-28|
 |SKD|Skeletal dysplasia|8.0|2015-01-20|
