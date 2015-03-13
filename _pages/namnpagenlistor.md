@@ -12,7 +12,7 @@ title: Namn på genlistor
 |AD|Alfa Dystroglykanopathy|17.2-1-geca736c|2015-03-13|
 |ATX|Neutropenia, Spastic Paraplegia, Ataxia|17.2-1-geca736c|2015-03-13|
 |CILM|Ciliopathy|17.2-1-geca736c|2015-03-13|
-|CM|Congenital Myopathy and centronuclear myopathy|17.2-1-geca736c|2015-03-13|
+|CM|Congenital Myopathy|17.2-1-geca736c|2015-03-13|
 |CMMS||3.5|2015-03-02|
 |DSD|Disorders of Sex Development|17.2-1-geca736c|2015-03-13|
 |MLD|Metachromatic LeukoDystrophy|17.2-1-geca736c|2015-03-13|
