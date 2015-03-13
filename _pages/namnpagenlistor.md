@@ -10,7 +10,7 @@ title: Namn på genlistor
 |---|---|---|---|
 |16PDEL|All genes within interval 16:16,043,433-16:17,564,737|18.0|2015-03-13|
 |AD|Alfa Dystroglykanopathy|19.0|2015-03-13|
-|ATX|Neutropenia, Spastic Paraplegia, Ataxia|20.0|2015-03-13|
+|ATX|Neutropenia, Spastic Paraplegia, Ataxia|34.0|2015-03-13|
 |CILM|Ciliopathy|21.0|2015-03-13|
 |CM|Congenital Myopathy|22.0|2015-03-13|
 |CMMS||5.0|2015-03-13|
