@@ -14,7 +14,7 @@ title: Namn på genlistor
 |CILM|Ciliopathy|21.0|2015-03-13|
 |CM|Congenital Myopathy|22.0|2015-03-13|
 |CMMS||3.5|2015-03-02|
-|DSD|Disorders of Sex Development|17.2-1-geca736c|2015-03-13|
+|DSD|Disorders of Sex Development|23.0|2015-03-13|
 |MLD|Metachromatic LeukoDystrophy|17.2-1-geca736c|2015-03-13|
 |MTM1|Myotubular myopathy|17.2-1-geca736c|2015-03-13|
 |NJU|Kidney cancer|17.2-1-geca736c|2015-03-13|
