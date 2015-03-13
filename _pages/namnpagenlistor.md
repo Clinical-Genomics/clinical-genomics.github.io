@@ -23,6 +23,7 @@ title: Namn på genlistor
 |ORO|Oro-facial-digital syndrome|30.0|2015-03-13|
 |PAF1|RNA polymerase II-associated factor|31.0|2015-03-13|
 |PID|Primary Immune Deficiency|5.2|2015-03-12|
+|SCN|Neutropenia|35.0|2015-03-13|
 |SHANK1|SH3 and multiple ankyrin repeat domains 1|32.0|2015-03-13|
 |SKD|Skeletal dysplasia|33.0|2015-03-13|
 |horsel|Hörsel panel|24.0|2015-03-13|
