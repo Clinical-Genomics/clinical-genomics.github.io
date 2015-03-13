@@ -19,7 +19,7 @@ title: Namn på genlistor
 |MTM1|Myotubular myopathy|26.0|2015-03-13|
 |NJU|Kidney cancer|27.0|2015-03-13|
 |NMD|Neuromuscular diseases (17 lists + 1 total list)|28.0|2015-03-13|
-|OMIM|Online Mendelian Inheritance in Man of 141201|17.2-1-geca736c|2015-03-13|
+|OMIM|Online Mendelian Inheritance in Man of 141201|29.0|2015-03-13|
 |ORO|Oro-facial-digital syndrome|17.2-1-geca736c|2015-03-13|
 |PAF1|RNA polymerase II-associated factor|17.2-1-geca736c|2015-03-13|
 |PID|Primary Immune Deficiency|5.2|2015-03-12|
