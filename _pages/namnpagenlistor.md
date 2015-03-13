@@ -9,7 +9,7 @@ title: Namn på genlistor
 |Databas|Beskrivning|Version|Datum|
 |---|---|---|---|
 |16PDEL|All genes within interval 16:16,043,433-16:17,564,737|18.0|2015-03-13|
-|AD|Alfa Dystroglykanopathy|17.2-1-geca736c|2015-03-13|
+|AD|Alfa Dystroglykanopathy|19.0|2015-03-13|
 |ATX|Neutropenia, Spastic Paraplegia, Ataxia|17.2-1-geca736c|2015-03-13|
 |CILM|Ciliopathy|17.2-1-geca736c|2015-03-13|
 |CM|Congenital Myopathy|17.2-1-geca736c|2015-03-13|
