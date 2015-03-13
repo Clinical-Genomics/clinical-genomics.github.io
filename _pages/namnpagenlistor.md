@@ -24,6 +24,6 @@ title: Namn på genlistor
 |PAF1|RNA polymerase II-associated factor|31.0|2015-03-13|
 |PID|Primary Immune Deficiency|5.2|2015-03-12|
 |PID-20150120||4.0|2015-01-30|
-|SHANK1|SH3 and multiple ankyrin repeat domains 1|17.2-1-geca736c|2015-03-13|
+|SHANK1|SH3 and multiple ankyrin repeat domains 1|32.0|2015-03-13|
 |SKD|Skeletal dysplasia|17.2-1-geca736c|2015-03-13|
 |horsel|Hörsel panel|24.0|2015-03-13|
