@@ -21,7 +21,7 @@ title: Namn på genlistor
 |NMD|Neuromuscular diseases (17 lists + 1 total list)|28.0|2015-03-13|
 |OMIM|Online Mendelian Inheritance in Man of 141201|29.0|2015-03-13|
 |ORO|Oro-facial-digital syndrome|30.0|2015-03-13|
-|PAF1|RNA polymerase II-associated factor|17.2-1-geca736c|2015-03-13|
+|PAF1|RNA polymerase II-associated factor|31.0|2015-03-13|
 |PID|Primary Immune Deficiency|5.2|2015-03-12|
 |PID-20150120||4.0|2015-01-30|
 |SHANK1|SH3 and multiple ankyrin repeat domains 1|17.2-1-geca736c|2015-03-13|
