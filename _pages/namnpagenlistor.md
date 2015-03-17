@@ -19,6 +19,7 @@ title: Namn på genlistor
 |ATX|Neutropenia, Spastic Paraplegia, Ataxia|34.0|2015-03-13|
 
 Panels:
+
 - Ataxi
 - FullList: Clinical master list
 - AD-HSP
@@ -33,6 +34,7 @@ Panels:
 |CM|Congenital Myopathy|22.0|2015-03-13|
 
 Panels:
+
 - CM: Congenital Myopathy
 - CNM: Centronuclear myopathy
 
@@ -50,6 +52,7 @@ Panels:
 |DSD|Disorders of Sex Development|23.0|2015-03-13|
 
 Panels:
+
 - SEXDET: Sex Differentiation
 - SEXDIF: Sex determination
 - DSD: Disorders of Sex Development
@@ -72,6 +75,7 @@ Panels:
 |NMD|Neuromuscular diseases (17 lists + 1 total list)|33.1|2015-03-13|
 
 Panels:
+
 - HA
 - IC
 - OM
@@ -125,6 +129,7 @@ Panels:
 |horsel|Hörsel panel|24.0|2015-03-13|
 
 Panels:
+
 - Horsel
 - 141201
 - 1412017
