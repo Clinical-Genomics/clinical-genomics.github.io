@@ -16,14 +16,8 @@ title: Namn på genlistor
 
 |Databas|Beskrivning|Version|Datum|
 |---|---|---|---|
-|ATX|Neutropenia, Spastic Paraplegia, Ataxia|34.0|2015-03-13|
+|ATX|Neutropenia, Spastic Paraplegia, Ataxia<br /><ul><li>Ataxi</li><li>FullList: Clinical master list</li><li>AD-HSP</li><li>SPG</li></ul>|34.0|2015-03-13|
 
-Panels:
-
-- Ataxi
-- FullList: Clinical master list
-- AD-HSP
-- SPG
 
 |Databas|Beskrivning|Version|Datum|
 |---|---|---|---|
