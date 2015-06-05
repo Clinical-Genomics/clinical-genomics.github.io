@@ -35,7 +35,7 @@ Följande analyser finns uppsatta och är beställningsbara. Kontakta oss ifall 
 Anrikning av exomet sker med hjälp av hybridiseringsbaserade tekniker, vilka inte möjliggör en fullständing täckning av det kodande exomet. Vissa regioner kommer inte finnas representerade i slutdatat och eventuella mutationer i dessa regioner kommer därmed inte kunna identifieras. Metoden för anrikning använder PCR-baserad amplifieringstekniker, vilket skapar en ojämn representation av exomet. Vissa regioner kommer att vara bättre täckta en andra. Vid behov kan vi tillhandahålla en provspecifik uppskattning av anrikningseffektiviteten för antingen hela exomet eller den kliniskt relevanta genlistan.
 
 ### Helgenomsekvensering
-I helgenomsekvensering kommer vissa regioner att inte detekteras tillförlitligt. Detta inkluderar bland annat repetitiva regioner i genomet. De PCR-fria metoderna har en mer komplett och jämnare täckning än metoder som använder sig av PCR amplifiering. Vid behov kan vi tillhandahålla en provspecifik uppskattning av täckningsgraden för antingen hela genomet eller den kliniskt relevanta genlistan.
+I helgenomsekvensering kommer vissa regioner att inte detekteras tillförlitligt. Detta inkluderar bland annat repetitiva regioner i genomet. De PCR-fria metoderna har en mer komplett och jämnare täckning än metoder som använder sig av PCR amplifiering. Vid behov kan vi tillhandahålla en provspecifik uppskattning av täckningsgraden för antingen hela genomet eller den kliniskt relevanta genlistan. Helgenomsekvensering kan göras vid multipler av 30x. Kontakta oss för mer information
 
 
 ## Teknisk beskrivning av analyserna
