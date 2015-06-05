@@ -44,4 +44,4 @@ I helgenomsekvensering kommer vissa regioner att inte detekteras tillförlitligt
 Genomiskt DNA fragmenteras ner till ca 300 bp, SureSelect teknologi (Agilent Technologies) används för biblioteksförberedning. Anrikning av exomet sker med CRE prober (Agilent Technologies) och indexering av prover sker innan anrikning. Färdiga bibliotek kvantifieras med qPCR (Kapa) och sekvenseras PE 2x100 bp i rapid run mode på en HiSeq 2500 (Illumina).
 
 ### Helgenomsekvensering
-Genomiskt DNA fragmenteras ner till ca 350 bp, TruSeq DNA PCR-free teknologi (Illumina) används för biblioteksförberedning. Färdiga bibliotek kvantifieras med qPCR (Kapa) och sekvenseras PE 2x100 bp i rapid run mode på en HiSeq 2500 (Illumina).
+Genomiskt DNA fragmenteras ner till ca 350 bp, TruSeq DNA PCR-free teknologi (Illumina) används för biblioteksförberedning. Färdiga bibliotek kvantifieras med qPCR (Kapa) och sekvenseras PE 2x125 bp på en HiSeqX (Illumina).
