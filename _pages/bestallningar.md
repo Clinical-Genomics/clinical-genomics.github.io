@@ -11,7 +11,7 @@ För att diskutera nya projekt, kontakta [Valtteri Wirta](mailto:valtteri.wirta@
 
 
 ## Skapa ny beställning
-1. Kontrollera att provet uppfyller provkraven (prover som inte uppfyller kraven kan skickas in, men analyskostnaden kommer att debiteras oavsett resultat)
+1. Kontrollera att provet uppfyller [provkraven](www.clinicalgenomics.se/provkrav/) (prover som inte uppfyller kraven kan skickas in, men analyskostnaden kommer att debiteras oavsett resultat)
 2. Fyll i beställningsformuläret (Order Form)
 3. Välj ett av alternativen
 
