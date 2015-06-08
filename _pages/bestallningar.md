@@ -13,14 +13,7 @@ För att diskutera nya projekt, kontakta [Valtteri Wirta](mailto:valtteri.wirta@
 ## Skapa ny beställning
 1. Kontrollera att provet uppfyller [provkraven](www.clinicalgenomics.se/provkrav/) (prover som inte uppfyller kraven kan skickas in, men analyskostnaden kommer att debiteras oavsett resultat)
 2. Fyll i beställningsformuläret (Order Form)
-3. Välj ett av alternativen
-
-	1. Logga in på vårt webbaserade kommunikationsverktyg (SupportSystems) och skapa ny ticket (tillgång till all tidigare kommunikation)
-
-	2. Skapa ny ticket utan att logga in
-
-	3. Skicka beställningsformuläret till support@clinical-scilifelab.supportsystem.com
-
+3. Logga in på vårt webbaserade kommunikationsverktyg [SupportSystems](www.https://clinical-scilifelab.supportsystem.com) och skapa en ny ticket. Bifoga det ifyllda orderbladet.
 4. Skicka in proverna på valfritt sätt (se adresser nedan). Bifoga utskrift av beställningsformuläret samt notera det ticketnummer som erhålls via e-post
 
 
