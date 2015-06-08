@@ -5,7 +5,7 @@ title: Kontakt
 ---
 
 # Kontakt
-Förfrågningar angående nya eller pågående analyser inom existerande projekt via vårt webbaserade kommunikationsverktyg [SupportSystems](https://clinical-scilifelab.supportsystem.com).
+Förfrågningar angående nya eller pågående analyser inom existerande projekt sker via vårt webbaserade kommunikationsverktyg [SupportSystems](https://clinical-scilifelab.supportsystem.com).
 
 Förfrågningar angående nya projekt till [Valtteri Wirta](mailto:valtteri.wirta@scilifelab.se).
 
