@@ -26,7 +26,7 @@ Följande analyser finns uppsatta och är beställningsbara. Kontakta oss ifall 
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
 | WGSPCRFR060| Klinisk helgenomsekvensering utan amplifiering | Illumina TruSeq PCR free | 60x teckningsgrad |     |
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
-| WGSPCRFR030| Klinisk helgenomsekvensering utan amplifiering | Illumina TruSeq PCR free | 30x teckningsgrad |     ||
+| WGSPCRFR030|                                                |                          | 30x teckningsgrad |     ||
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
 | WGSACUR600 | Akut klinisk helgenomsekvensering              | Illumina TruSeq PCR free | 600 M läspar                    | Analys inom 48 timmar, första resultat redan inom 24 timmar |
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
