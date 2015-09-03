@@ -1,4 +1,3 @@
-WARNING: /home/kebil/git/cust004/cust004-PIDCAD.txt not committed!
 ---
 layout: base
 permalink: /namnpagenlistor/
