@@ -11,7 +11,7 @@ Standardleveransen av resultat från sekvensering och analys sker genom uppladdn
 
 ![Scout Variants](/assets/img/scout-variants.png)
 
-Vi levereras även rådata (FASTQ-filer). Leveranserna sker till lagringsytan som är kopplat till vårt beräkningskluster.
+Vi levereras även rådata (FASTQ-filer). Leveranserna sker antingen till lagringsytan som är kopplat till vårt beräkningskluster, UPPMAX eller via hårddiskar.
 
 
 [mip-docs]: http://mip-api.readthedocs.org/en/latest/
