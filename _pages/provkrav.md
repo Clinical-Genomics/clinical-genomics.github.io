@@ -31,3 +31,14 @@ De prov som uppfyller nedanstående provkrav kommer att analyseras upp till två
 **Koncentration**: 50 - 250 ng/uL
 
 **Volym**: 20 - 50uL
+
+## Helgenomsekvensering mikrobiella prover
+**Mängd**: > 6 ng  (fluorescencebaserad analys), > 15 ng (spektrofotometrisk analys)
+
+**Fragmentstorlek**: Högmolekylärt
+
+**A260/A280**: 1.8-2.0
+
+**Koncentration**: > 0.2 ng/uL
+
+**Volym**: > 30 uL
