@@ -42,3 +42,17 @@ De prov som uppfyller nedanstående provkrav kommer att analyseras upp till två
 **Koncentration**: > 0.2 ng/uL
 
 **Volym**: > 30 uL
+
+## 16S amplikon sekvensering
+**Mängd**: > 50 ng  (fluorescencebaserad analys), > 75 ng (spektrofotometrisk analys) 
+
+**Fragmentstorlek**: Högmolekylärt
+
+**A260/A280**: 1.8-2.0
+
+**Volym**: > 50 uL
+
+Clincal Genomics garanterar ej lyckat resultat för prover som förväntas innehålla en hög andel eukariotiskt DNA (exempelvis biopsier). Se överenskommelsen för vidare detaljer.
+
+Clinical Genomics does not guarantee the successful processing of samples that are expected to have a high content of eukaryotic DNA (e.x. biopsies).
+
