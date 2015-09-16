@@ -30,6 +30,12 @@ Följande analyser finns uppsatta och är beställningsbara. Kontakta oss ifall 
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
 | WGSACUR600 | Akut klinisk helgenomsekvensering              | Illumina TruSeq PCR free | 600 M läspar                    | Analys inom 48 timmar, första resultat redan inom 24 timmar |
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
+|-----------|-----------------------------|--------------------------------------|--------------------------------|--------------|
+| MWGNXTR003| Mikrobiell helgenomsekvensering | Nextera XT (Illumina) | 3 M läspar       | > 6 ng DNA |
+|-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
+| METNXTR020| Mikrobiell metagenomiksekvensering | Nextera XT (Illumina) |   20 M läspar                           |            |
+|-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
+| 16SAMPK050| 16S amplikon sekvensering       |                                      | 50 tusen läspar  |              |
 
 ## Begränsning av analyserna
 
