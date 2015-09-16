@@ -47,7 +47,7 @@ För personlig leverans, kontakta oss i förväg.
 	171 65 Solna
 </address>
 
-Vi är normalt på plats mellan 9 och 15.
+Vi är normalt på plats mellan 9 och 15. Receptionen på Scilifelab är öppen mellan 8 och 17.
 
 I korridoren utanför vårt lab finns en kyl där prover kan lämnas om vi inte är på plats. 
 
