@@ -23,10 +23,10 @@ För att diskutera nya projekt, kontakta [Valtteri Wirta](mailto:valtteri.wirta@
 **Med kurir**:
 
 <address>
-	Clinical Genomics / SciLifeLab <br>
+	Clinical Genomics / Science for Life Laboratory <br>
 	Att: Sofie Sibia <br>
-	Karolinska Institutet Science <br>
-	Tomtebodavägen 23B 171 65 Solna, Sweden
+	Tomtebodavägen 23B <br>
+	171 65 Solna, Sweden
 </address>
 
 **Med posten**:
