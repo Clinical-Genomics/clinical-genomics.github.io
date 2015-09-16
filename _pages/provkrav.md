@@ -50,6 +50,8 @@ De prov som uppfyller nedanstående provkrav kommer att analyseras upp till två
 
 **A260/A280**: 1.8-2.0
 
+**Koncentration**: > 1 ng/uL
+
 **Volym**: > 50 uL
 
 Clincal Genomics garanterar ej lyckat resultat för prover som förväntas innehålla en hög andel eukariotiskt DNA (exempelvis biopsier). Se överenskommelsen för vidare detaljer.
