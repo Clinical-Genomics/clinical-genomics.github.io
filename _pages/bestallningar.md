@@ -18,9 +18,9 @@ För att diskutera nya projekt, kontakta [Valtteri Wirta](mailto:valtteri.wirta@
 
 **Veckoschema**
 
-Exomsekvensering/Low-input exomsekvensering (EXOSXTRxxx/EXOQXTRxxx) måndagar kl 10.00
+Exomsekvensering/Low-input exomsekvensering (EXOSXTRxxx/EXOQXTRxxx) måndagar kl 12.00
 
-Helgenomsekvensering (WGSPCFC030) tisdagar kl 12.00
+Helgenomsekvensering (WGSPCFC030) onsdagar kl 08.00
 
 **Prioritering av prover**
 
