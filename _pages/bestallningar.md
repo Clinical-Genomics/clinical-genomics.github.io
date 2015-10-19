@@ -16,6 +16,18 @@ För att diskutera nya projekt, kontakta [Valtteri Wirta](mailto:valtteri.wirta@
 3. Logga in på vårt webbaserade kommunikationsverktyg [SupportSystems](https://clinical-scilifelab.supportsystem.com) och skapa en ny ticket. Bifoga det ifyllda orderbladet.
 4. Skicka in proverna på valfritt sätt (se adresser nedan). Bifoga utskrift av beställningsformuläret samt notera det ticketnummer som erhålls via e-post
 
+**veckoschema**
+Exomsekvensering/Low-input exomsekvensering (EXOSXTRxxx/EXOQXTRxxx) måndagar kl 10.00
+Helgenomsekvensering (WGSPCFC030) tisdagar kl 12.00
+
+**Prioritering av prover**
+Standard - provet analyseras enligt veckoschemat.
+
+Förtur/prioriterat - provet analyseras enligt veckoschemat, men provet får förtur vid varje möjligt tillfälle. Tex först till sekvensering och först till bioinformatisk analys. Ingen extra kostnad för detta, men förutsätter ‘fair usage’.
+
+Express - provet analyseras snarast och utanför veckoschemat. Förväntad leveranstid ca 5 arbetsdagar. Extra kostnad 5000 kr. Tillgänglighet för denna analys bekräftas separat för varje prov. Denna analys är endast tillgänglig som exomsekvensering med QXT metoden (analyskod EXOQXTR100).
+
+
 
 
 ## Leveransadresser
