@@ -16,7 +16,7 @@ För att diskutera nya projekt, kontakta [Valtteri Wirta](mailto:valtteri.wirta@
 3. Logga in på vårt webbaserade kommunikationsverktyg [SupportSystems](https://clinical-scilifelab.supportsystem.com) och skapa en ny ticket. Bifoga det ifyllda orderbladet.
 4. Skicka in proverna på valfritt sätt (se adresser nedan). Bifoga utskrift av beställningsformuläret samt notera det ticketnummer som erhålls via e-post
 
-**veckoschema**
+**Veckoschema**
 Exomsekvensering/Low-input exomsekvensering (EXOSXTRxxx/EXOQXTRxxx) måndagar kl 10.00
 Helgenomsekvensering (WGSPCFC030) tisdagar kl 12.00
 
