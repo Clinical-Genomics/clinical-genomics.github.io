@@ -55,7 +55,7 @@ Express - provet analyseras snarast och utanför veckoschemat. Förväntad lever
 
 För personlig leverans, kontakta oss i förväg. 
 
-**Adress**:
+**Besöksadress**:
 
 <address>
 	Tomtebodavägen 23A <br>
