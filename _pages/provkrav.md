@@ -54,7 +54,7 @@ De prov som uppfyller nedanstående provkrav kommer att analyseras upp till två
 
 **Volym**: > 50 uL
 
-Clinical Genomics garanterar ej lyckat resultat för 16S prover som förväntas innehålla en hög andel eukariotiskt DNA (exempelvis biopsier). Se överenskommelsen för vidare detaljer.
+För 16S amplikon sekvensering garanterar Clinical Genomics ej lyckat resultat för prover som förväntas innehålla en hög andel eukariotiskt DNA (exempelvis biopsier). Se överenskommelsen för vidare detaljer.
 
-Clinical Genomics does not guarantee the successful processing of 16S samples that are expected to have a high content of eukaryotic DNA (e.x. biopsies).
+For 16S amplicon sequencing does Clinical Genomics not guarantee a successful processing of samples that are expected to have a high content of eukaryotic DNA (e.x. biopsies).
 
