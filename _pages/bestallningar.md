@@ -31,7 +31,6 @@ Förtur/prioriterat - provet analyseras enligt veckoschemat, men provet får fö
 Express - provet analyseras snarast och utanför veckoschemat. Förväntad leveranstid ca 5 arbetsdagar. Extra kostnad 5000 kr. Tillgänglighet för denna analys bekräftas separat för varje prov. Denna analys är endast tillgänglig som exomsekvensering med QXT metoden (analyskod EXOQXTRxxx).
 
 
-
 ## Leveransadresser
 
 **Med kurir**:
