@@ -21,6 +21,8 @@ De prov som uppfyller nedanstående provkrav kommer att analyseras upp till två
 
 **Volym**: 20 - 120uL
 
+**Provursprung**: Blod, saliv. Clinical Genomics garanterar ej provkvalitet på salivprover på grund av hög risk för kontaminieing av bakteriellt DNA.
+
 ## Helgenomsekvensering
 **Mängd**: 2 ug (fluorescencebaserad analys), 4 ug (spektrofotometrisk analys)
 
@@ -31,6 +33,8 @@ De prov som uppfyller nedanstående provkrav kommer att analyseras upp till två
 **Koncentration**: 50 - 250 ng/uL
 
 **Volym**: 20 - 50uL
+
+**Provursprung**: Blod, saliv. Clinical Genomics garanterar ej provkvalitet på salivprover på grund av hög risk för kontaminieing av bakteriellt DNA.
 
 ## Helgenomsekvensering mikrobiella prover
 **Mängd**: > 6 ng  (fluorescencebaserad analys), > 15 ng (spektrofotometrisk analys)
