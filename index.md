@@ -2,7 +2,7 @@
 layout: base
 ---
 # Clinical Genomics 
- Clinical Genomics är en facilitet under [SciLifeLab](www.scilifelab.se)
+ Clinical Genomics är en facilitet under [SciLifeLab](http://www.scilifelab.se)
 
 ## Nyheter
 **Ny hemsida!**
