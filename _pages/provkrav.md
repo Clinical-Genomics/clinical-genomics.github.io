@@ -23,7 +23,7 @@ De prov som uppfyller nedanstående provkrav kommer att analyseras upp till två
 
 **Provursprung**: Blod, vävnad, saliv. Clinical Genomics garanterar ej provkvalitet på salivprover på grund av hög risk för kontaminieing av bakteriellt DNA.
 
-## Helgenomsekvensering
+## Helgenomsekvensering och metagenomik (PCR-fritt protokoll)
 **Mängd**: 2 ug (fluorescencebaserad analys), 4 ug (spektrofotometrisk analys)
 
 **Fragmentstorlek**: Högmolekylärt
@@ -34,9 +34,9 @@ De prov som uppfyller nedanstående provkrav kommer att analyseras upp till två
 
 **Volym**: 20 - 50uL
 
-**Provursprung**: Blod, vävnad, saliv. Clinical Genomics garanterar ej provkvalitet på salivprover på grund av hög risk för kontaminieing av bakteriellt DNA.
+**Provursprung**: Blod, vävnad, saliv. Clinical Genomics garanterar ej provkvalitet på salivprover på grund av hög risk för kontaminieing av bakteriellt DNA. 
 
-## Helgenomsekvensering mikrobiella prover
+## Helgenomsekvensering mikrobiella prover och metagenomik (PCR-baserade protokoll)
 **Mängd**: > 6 ng  (fluorescencebaserad analys), > 15 ng (spektrofotometrisk analys)
 
 **Fragmentstorlek**: Högmolekylärt
