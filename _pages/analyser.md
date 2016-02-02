@@ -24,9 +24,9 @@ Följande analyser finns uppsatta och är beställningsbara. Kontakta oss ifall 
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
 | EXOQXTR060|                             |                                      | 60 M läspar (45 M garanterat)  |              |
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
-| WGSPCFC060| Klinisk helgenomsekvensering utan amplifiering | Illumina TruSeq PCR free | 60x teckningsgrad |     |
+| WGSPCFC060| Klinisk helgenomsekvensering utan amplifiering | Illumina TruSeq PCR free | 60x täckningsgrad |     |
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
-| WGSPCFC030|                                                |                          | 30x teckningsgrad |     ||
+| WGSPCFC030|                                                |                          | 30x täckningsgrad |     ||
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
 | WGSACUR600 | Akut klinisk helgenomsekvensering              | Illumina TruSeq PCR free | 600 M läspar                    | Analys inom 48 timmar, första resultat redan inom 24 timmar |
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
