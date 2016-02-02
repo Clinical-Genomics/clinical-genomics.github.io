@@ -7,7 +7,7 @@ baseurl: ""
 url: "http://www.clinicalgenomics.se"
 
 collections:
-  pages:
+  topics:
     output: true
 
 # Build settings
