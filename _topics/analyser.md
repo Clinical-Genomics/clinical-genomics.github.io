@@ -20,13 +20,13 @@ Följande analyser finns uppsatta och är beställningsbara. Antalet reads kan j
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
 | WGSPCFC060| Klinisk helgenomsekvensering utan amplifiering | Illumina TruSeq PCR free | 60x täckningsgrad |     |
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
+| WGSPCFC030|                                                |                          | 30x täckningsgrad |    
+|------------+------------------------------------------------+--------------------------+---------------------------------|-----|
 | EXXCUSR100|Prover Helexomsekvenserade utanför Clinical Genomics där enbart dataanalys skall göras
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
   WGXCUSC030|Prover Helgenomsekvenserade utanför Clinical Genomics där enbart datanaanalys skall göras
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
-| WGSPCFC030|                                                |                          | 30x täckningsgrad |     ||
-|------------+------------------------------------------------+--------------------------+---------------------------------|-----|
-| WGSACUR600 | Akut klinisk helgenomsekvensering              | Illumina TruSeq PCR free | 600 M läspar                    | Analys inom 48 timmar, första resultat redan inom 24 timmar |
+| WGSACUR600 | Akut klinisk helgenomsekvensering              | Illumina TruSeq PCR free | 600 M läspar| Analys inom 48 timmar, första resultat redan inom 24 timmar |
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
 |-----------|-----------------------------|--------------------------------------|--------------------------------|--------------|
 | MWGNXTR003| Mikrobiell helgenomsekvensering | Nextera XT (Illumina) | 3 M läspar       | > 6 ng DNA |
