@@ -7,24 +7,22 @@ title: Analyser
 # Analyser
 För varje projekt identifierar vi tillsammans de methoder (laborativa och bioinformatiska) som behövs och därefter sätter vi upp analysen. Varje analys definieras med hjälp av en unik analyskod som entydigt definierar hur analysen skall utföras. Det är viktigt att rätt kod används i beställningsformuläret.
 
-Följande analyser finns uppsatta och är beställningsbara. Kontakta oss ifall någon annan typ av analys behövs.
+Följande analyser finns uppsatta och är beställningsbara. Antalet reads kan justeras enligt önskemål och nedan följer exempel på analyser med 100 M läspar för exomprover och 60X/30X för WGS prover. Kontakta oss ifall någon annan typ av analys behövs.
 
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
 | Analyskod | Beskrivning                 | Bibliotekspreparering                | Sekvenseringsdjup              | Övrigt       |
 |-----------|-----------------------------|--------------------------------------|--------------------------------|--------------|
 | EXOSXTR100| Klinisk helexomsekvensering | SureSelect XT (Agilent Technologies) | 100 M läspar (75 M garanterat) | >3000 ng DNA |
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
-| EXOSXTR075|                             |                                      | 75 M läspar (56 M garanterat)  |              |
+| EXOSLIR100| Klinisk helexomsekvensering | SureSelect XT (Agilent Technologies) | 100 M läspar (75 M garanterat) | >200 ng DNA  |
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
-| EXOSXTR060|                             |                                      | 60 M läspar (45 M garanterat)  |              |
-|-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
-| EXOQXTR100| Klinisk helexomsekvensering | SureSelect QXT (Agilent Technologies)| 100 M läspar (75 M garanterat) | >50 ng DNA   |
-|-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
-| EXOQXTR075|                             |                                      | 75 M läspar (56 M garanterat)  |              |
-|-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
-| EXOQXTR060|                             |                                      | 60 M läspar (45 M garanterat)  |              |
+| EXOSFFR100| Klinisk helexomsekvensering FFPE| SureSelect XT (Agelent Technologies)| 100 M läspar (75 M garanterat)| >200 ng DNA  |
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
 | WGSPCFC060| Klinisk helgenomsekvensering utan amplifiering | Illumina TruSeq PCR free | 60x täckningsgrad |     |
+|------------+------------------------------------------------+--------------------------+---------------------------------|-----|
+| EXXCUSR100|Prover Helexomsekvenserade utanför Clinical Genomics där enbart dataanalys skall göras
+|------------+------------------------------------------------+--------------------------+---------------------------------|-----|
+  WGXCUSC030|Prover Helgenomsekvenserade utanför Clinical Genomics där enbart datanaanalys skall göras
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
 | WGSPCFC030|                                                |                          | 30x täckningsgrad |     ||
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
