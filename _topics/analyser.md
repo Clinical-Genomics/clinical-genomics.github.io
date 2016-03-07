@@ -9,7 +9,7 @@ För varje projekt identifierar vi tillsammans de methoder (laborativa och bioin
 
 Följande analyser finns uppsatta och är beställningsbara. Antalet reads kan justeras enligt önskemål och nedan följer exempel på analyser med 100 M läspar för exomprover och 60X/30X för WGS prover. Kontakta oss ifall någon annan typ av analys behövs.
 
-|-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
+|-----------+-----------------------------+--------------------------------------+--------------------------------+--------------|
 | Analyskod | Beskrivning                 | Bibliotekspreparering                | Sekvenseringsdjup              | Övrigt       |
 |-----------|-----------------------------|--------------------------------------|--------------------------------|--------------|
 | EXOSXTR100| Klinisk helexomsekvensering | SureSelect XT (Agilent Technologies) | 100 M läspar (75 M garanterat) | >3000 ng DNA |
@@ -30,8 +30,9 @@ Följande analyser finns uppsatta och är beställningsbara. Antalet reads kan j
 | MWGNXTR003| Mikrobiell helgenomsekvensering | Nextera XT (Illumina) | 3 M läspar       | > 6 ng DNA |
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
 | METNXTR020| Mikrobiell metagenomiksekvensering | Nextera XT (Illumina) |   20 M läspar                           |            |
-|-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
-| 16SAMPK050| 16S amplikon sekvensering       |                                      | 50 K läspar  |              |
+|-----------+-----------------------------+--------------------------------------+--------------------------------|--------------
+| 16SAMPK050| 16S amplikon sekvensering   |                                      | 50 K läspar  |              |
+|-----------+-----------------------------+--------------------------------------+--------------------------------+--------------|
 
 ## Begränsning av analyserna
 
