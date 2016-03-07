@@ -26,7 +26,7 @@ Följande analyser finns uppsatta och är beställningsbara. Antalet reads kan j
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
   WGXCUSC030|Prover Helgenomsekvenserade utanför Clinical Genomics där enbart datanaanalys skall göras
 |------------+------------------------------------------------+--------------------------+---------------------------------|-----|
-| WGSACUR600 | Akut klinisk helgenomsekvensering              | Illumina TruSeq PCR free | 600 M läspar| Analys inom 48 timmar, första resultat redan inom 24 timmar |
+| WGSACUR600 | Akut klinisk helgenomsekvensering              | Illumina TruSeq PCR free | 600 M läspar| Analys inom 48 timmar, första                                                                                                            resultat redan inom 24 timmar|
 |-----------|-----------------------------|--------------------------------------|--------------------------------|--------------|
 | MWGNXTR003| Mikrobiell helgenomsekvensering | Nextera XT (Illumina) | 3 M läspar       | > 6 ng DNA |
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
