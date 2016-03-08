@@ -10,8 +10,8 @@ De prov som uppfyller nedanstående provkrav kommer att analyseras upp till två
 ## Exomsekvensering
 **Mängd**:
 
-- SureSelect XT 6 ug (fluorescencebaserad analys), 10 ug (spektrofotometrisk analys)
-- SureSelect QXT 200 ng (fluorescencebaserad analys)
+- SureSelect XT (EXOSTRxxx) 6 ug (fluorescencebaserad analys), 10 ug (spektrofotometrisk analys)
+- SureSelect XT (EXOSLIRxxx) 400 ng (fluorescencebaserad analys)
 
 **Fragmentstorlek**: Högmolekylärt
 
