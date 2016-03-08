@@ -20,6 +20,8 @@ Följande analyser finns uppsatta och är beställningsbara. Antalet reads kan j
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
 | WGSPCFC060| Klinisk helgenomsekvensering utan amplifiering | Illumina TruSeq PCR free | 60x täckningsgrad       |   >1100ng    |
 |-----------+------------------------------------------------+--------------------------+------------------------ |--------------|
+| WGSPCFC030| Klinisk helgenomsekvensering utan amplifiering | Illumina TruSeq PCR free | 30x täckningsgrad       |   >1100ng    |
+|-----------+------------------------------------------------+--------------------------+------------------------ |--------------|
 | EXXCUSR100|Prover Helexomsekvenserade utanför Clinical Genomics där enbart dataanalys skall göras|              |              |
 |------------+------------------------------------------------+--------------------------+------------------------|--------------|
 | WGXCUSC030|Prover Helgenomsekvenserade utanför Clinical Genomics där enbart datanaanalys skall göras|           |              |
