@@ -19,17 +19,14 @@ Följande analyser finns uppsatta och är beställningsbara. Antalet reads kan j
 | EXOSFFR100| Klinisk helexomsekvensering FFPE| SureSelect XT (Agelent Technologies)| 100 M läspar (75 M garanterat)| >200 ng DNA|
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
 | WGSPCFC060| Klinisk helgenomsekvensering utan amplifiering | Illumina TruSeq PCR free | 60x täckningsgrad       |   >1100ng    |
-|------------+------------------------------------------------+--------------------------+------------------------|--------------|
-| WGSPCFC030|                                                |                          | 30x täckningsgrad       |   >1100ng    | |-----------+------------------------------------------------+--------------------------+-------------------------|--------------|
+ |-----------+------------------------------------------------+--------------------------+------------------------|--------------|
 | EXXCUSR100|Prover Helexomsekvenserade utanför Clinical Genomics där enbart dataanalys skall göras|      |       |              |
 |------------+------------------------------------------------+--------------------------+------------------------|--------------|
 | WGXCUSC030|Prover Helgenomsekvenserade utanför Clinical Genomics där enbart datanaanalys skall göras|   |       |              |
 |------------+------------------------------------------------+--------------------------+------------------------|--------------|
-| WGSACUR600 | Akut klinisk helgenomsekvensering              | Illumina TruSeq PCR free | 600 M läspar| Analyssvar inom 48 timmar|
-|-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
 | MWGNXTR003| Mikrobiell helgenomsekvensering | Nextera XT (Illumina) | 3 M läspar       | > 6 ng DNA |
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
-| METNXTR020| Mikrobiell metagenomiksekvensering | Nextera XT (Illumina) |   20 M läspar                          |            | |
+| METNXTR020| Mikrobiell metagenomiksekvensering | Nextera XT (Illumina) |   20 M läspar                          |              |
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
 | 16SAMPK050| 16S amplikon sekvensering   |                                      | 50 K läspar  |                 |              | 
 |-----------+-----------------------------+--------------------------------------+--------------------------------+--------------|
