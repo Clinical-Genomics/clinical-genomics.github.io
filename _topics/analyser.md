@@ -16,7 +16,7 @@ Följande analyser finns uppsatta och är beställningsbara. Antalet reads kan j
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
 | EXOSLIR100| Klinisk helexomsekvensering | SureSelect XT (Agilent Technologies) | 100 M läspar (75 M garanterat) | >200 ng DNA  |
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
-| EXOSFFR100| Klinisk helexomsekvensering FFPE| SureSelect XT (Agelent Technologies)| 100 M läspar (75 M garanterat)| >200 ng DNA|
+| EXOSFFR100| Klinisk helexomsekvensering FFPE| SureSelect XT (Agilent Technologies)| 100 M läspar (75 M garanterat)| >200 ng DNA|
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
 | WGSPCFC060| Klinisk helgenomsekvensering utan amplifiering | Illumina TruSeq PCR free | 60x täckningsgrad       |   >1100ng    |
 |-----------+------------------------------------------------+--------------------------+------------------------ |--------------|
