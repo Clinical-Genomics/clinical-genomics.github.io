@@ -30,7 +30,7 @@ Följande analyser finns uppsatta och är beställningsbara. Antalet reads kan j
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
 | METNXTR020| Mikrobiell metagenomiksekvensering | Nextera XT (Illumina) |   20 M läspar                          |              |
 |-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
-| 16SAMPK050| 16S amplikon sekvensering   |                                      | 50 K läspar  |                 |              | 
+| 16SAMPK050| 16S amplikon sekvensering   |                                      | 50 K läspar                   |              | 
 |-----------+-----------------------------+--------------------------------------+--------------------------------+--------------|
 
 ## Begränsning av analyserna
