@@ -50,7 +50,7 @@ th {
   padding: .5rem;
 }
 
-tbody:nth-child(odd) {
+tr:nth-child(even) {
   background-color: lighten($border-color, 10%);
 }
 

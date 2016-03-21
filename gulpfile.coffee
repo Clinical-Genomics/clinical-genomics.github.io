@@ -6,9 +6,9 @@ sass = require 'gulp-sass'
 autoprefixer = require 'gulp-autoprefixer'
 browserSync = require 'browser-sync'
 reload = browserSync.reload
-minify = require 'gulp-minify-css'
 uglify = require 'gulp-uglify'
 gulpif = require 'gulp-if'
+cleanCSS = require 'gulp-clean-css'
 argv = require('yargs').argv
 
 
@@ -27,7 +27,7 @@ gulp.task 'css', ->
     .pipe autoprefixer
       browsers: ['last 2 versions']
       cascade: no
-    .pipe gulpif argv.production, minify()
+    .pipe gulpif argv.production, cleanCSS({compatibility: 'ie8'})
     .pipe gulp.dest 'assets/css/'
     .pipe reload { stream: yes }
 

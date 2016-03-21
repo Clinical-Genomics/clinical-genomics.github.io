@@ -9,29 +9,30 @@ För varje projekt identifierar vi tillsammans de methoder (laborativa och bioin
 
 Följande analyser finns uppsatta och är beställningsbara. Antalet reads kan justeras enligt önskemål och nedan följer exempel på analyser med 100 M läspar för exomprover och 60X/30X för WGS prover. Kontakta oss ifall någon annan typ av analys behövs.
 
-|-----------+-----------------------------+--------------------------------------+--------------------------------+--------------|
-| Analyskod | Beskrivning                 | Bibliotekspreparering                | Sekvenseringsdjup              | Övrigt       |
-|-----------|-----------------------------|--------------------------------------|--------------------------------|--------------|
-| EXOSXTR100| Klinisk helexomsekvensering | SureSelect XT (Agilent Technologies) | 100 M läspar (75 M garanterat) | >3000 ng DNA |
-|-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
-| EXOSLIR100| Klinisk helexomsekvensering | SureSelect XT (Agilent Technologies) | 100 M läspar (75 M garanterat) | >200 ng DNA  |
-|-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
-| EXOSFFR100| Klinisk helexomsekvensering FFPE| SureSelect XT (Agilent Technologies)| 100 M läspar (75 M garanterat)| >200 ng DNA|
-|-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
-| WGSPCFC060| Klinisk helgenomsekvensering utan amplifiering | Illumina TruSeq PCR free | 60x täckningsgrad       |   >1100ng    |
-|-----------+------------------------------------------------+--------------------------+------------------------ |--------------|
-| WGSPCFC030| Klinisk helgenomsekvensering utan amplifiering | Illumina TruSeq PCR free | 30x täckningsgrad       |   >1100ng    |
-|-----------+------------------------------------------------+--------------------------+------------------------ |--------------|
-| EXXCUSR100|Prover Helexomsekvenserade utanför Clinical Genomics där enbart dataanalys skall göras|              |              |
-|------------+------------------------------------------------+--------------------------+------------------------|--------------|
-| WGXCUSC030|Prover Helgenomsekvenserade utanför Clinical Genomics där enbart datanaanalys skall göras|           |              |
-|------------+------------------------------------------------+--------------------------+------------------------|--------------|
-| MWGNXTR003| Mikrobiell helgenomsekvensering | Nextera XT (Illumina) | 3 M läspar       | > 6 ng DNA |
-|-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
-| METNXTR020| Mikrobiell metagenomiksekvensering | Nextera XT (Illumina) |   20 M läspar                          |              |
-|-----------+-----------------------------+--------------------------------------+--------------------------------|--------------|
-| 16SAMPK050| 16S amplikon sekvensering   |                                      | 50 K läspar                   |              | 
-|-----------+-----------------------------+--------------------------------------+--------------------------------+--------------|
+
+<table>
+	<thead>
+		<tr>
+			<th>Analyskod</th>
+			<th>Beskrivning</th>
+			<th>Bibliotekspreparering</th>
+			<th>Sekvenseringsdjup</th>
+			<th>Övrigt</th>
+		</tr>
+	</thead>
+	
+	<tbody>
+		{% for analysis in site.data.analyses %}
+			<tr>
+				<td>{{ analysis.code }}</td>
+				<td>{{ analysis.description }}</td>
+				<td>{{ analysis.library_prep }}</td>
+				<td>{{ analysis.sequencing_depth }}</td>
+				<td>{{ analysis.misc }}</td>
+			</tr>
+		{% endfor %}
+	</tbody>
+</table>
 
 ## Begränsning av analyserna
 

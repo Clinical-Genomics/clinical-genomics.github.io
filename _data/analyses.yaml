@@ -1,0 +1,54 @@
+- code: EXOSXTR100
+  description: Klinisk helexomsekvensering
+  library_prep: SureSelect XT (Agilent Technologies)
+  sequencing_depth: 100 M läspar (75 M garanterat)
+  misc: ">3000 ng DNA"
+
+- code: EXOSLIR100
+  description: Klinisk helexomsekvensering
+  library_prep: SureSelect XT (Agilent Technologies)
+  sequencing_depth: 100 M läspar (75 M garanterat)
+  misc: ">200 ng DNA"
+
+- code: EXOSFFR100
+  description: Klinisk helexomsekvensering FFPE
+  library_prep: SureSelect XT (Agilent Technologies)
+  sequencing_depth: 100 M läspar (75 M garanterat)
+  misc: ">200 ng DNA"
+
+- code: WGSPCFC060
+  description: Klinisk helgenomsekvensering utan amplifiering
+  library_prep: Illumina TruSeq PCR free
+  sequencing_depth: 60x täckningsgrad
+  misc: ">1100ng"
+
+- code: WGSPCFC030
+  description: Klinisk helgenomsekvensering utan amplifiering
+  library_prep: Illumina TruSeq PCR free
+  sequencing_depth: 30x täckningsgrad
+  misc: ">1100ng"
+
+- code: EXXCUSR100
+  description: >
+    Prover Helexomsekvenserade utanför Clinical Genomics där enbart dataanalys
+    skall göras
+
+- code: WGXCUSC030
+  description: >
+    Prover Helgenomsekvenserade utanför Clinical Genomics där enbart
+    datanaanalys skall göras
+
+- code: MWGNXTR003
+  description: Mikrobiell helgenomsekvensering
+  library_prep: Nextera XT (Illumina)
+  sequencing_depth: 3 M läspar
+  misc: "> 6 ng DNA"
+
+- code: METNXTR020
+  description: Mikrobiell metagenomiksekvensering
+  library_prep: Nextera XT (Illumina)
+  sequencing_depth: 20 M läspar
+
+- code: 16SAMPK050
+  description: 16S amplikon sekvensering
+  sequencing_depth: 50 K läspar
