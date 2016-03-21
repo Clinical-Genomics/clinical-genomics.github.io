@@ -4,4 +4,4 @@ rvm:
 install: bundle install
 script:
   - bundle exec jekyll build --trace
-  - bundle exec ./_scripts/htmlcheck.rb
+  - bundle exec htmlproofer ./_site
