@@ -1,41 +1,41 @@
 - code: EXOSXTR100
-  description: Klinisk helexomsekvensering
+  description: Klinisk helexomsekvensering, standard
   library_prep: SureSelect XT (Agilent Technologies)
   sequencing_depth: 100 M läspar (75 M garanterat)
   misc: ">3000 ng DNA"
 
 - code: EXOSLIR100
-  description: Klinisk helexomsekvensering
+  description: Klinisk helexomsekvensering, low input
   library_prep: SureSelect XT (Agilent Technologies)
   sequencing_depth: 100 M läspar (75 M garanterat)
   misc: ">200 ng DNA"
 
 - code: EXOSFFR100
-  description: Klinisk helexomsekvensering FFPE
+  description: Klinisk helexomsekvensering, FFPE
   library_prep: SureSelect XT (Agilent Technologies)
   sequencing_depth: 100 M läspar (75 M garanterat)
   misc: ">200 ng DNA"
 
 - code: WGSPCFC060
   description: Klinisk helgenomsekvensering utan amplifiering
-  library_prep: Illumina TruSeq PCR free
+  library_prep: TruSeq PCR free (Illumina)
   sequencing_depth: 60x täckningsgrad
   misc: ">1100ng"
 
 - code: WGSPCFC030
   description: Klinisk helgenomsekvensering utan amplifiering
-  library_prep: Illumina TruSeq PCR free
+  library_prep: TruSeq PCR free (Illumina)
   sequencing_depth: 30x täckningsgrad
   misc: ">1100ng"
 
 - code: EXXCUSR100
   description: >
-    Prover Helexomsekvenserade utanför Clinical Genomics där enbart dataanalys
+    Prover helexomsekvenserade utanför Clinical Genomics där enbart dataanalys
     skall göras
 
 - code: WGXCUSC030
   description: >
-    Prover Helgenomsekvenserade utanför Clinical Genomics där enbart
+    Prover helgenomsekvenserade utanför Clinical Genomics där enbart
     datanaanalys skall göras
 
 - code: MWGNXTR003
