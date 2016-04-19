@@ -24,7 +24,7 @@ Följande analyser finns uppsatta och är beställningsbara. Antalet reads kan j
 		{% for analysis in site.data.analyses %}
 			<tr>
 				<td>
-					<a href="/analyser/{{ analysis.code }}">
+					<a href="/analyser/{{ analysis.code | downcase }}">
 						{{ analysis.code }}
 					</a>
 				</td>
