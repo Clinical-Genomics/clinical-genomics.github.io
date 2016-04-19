@@ -10,6 +10,7 @@ uglify = require 'gulp-uglify'
 gulpif = require 'gulp-if'
 cleanCSS = require 'gulp-clean-css'
 argv = require('yargs').argv
+ghPages = require 'gulp-gh-pages'
 
 
 # browser-sync task, only cares about compiled CSS
@@ -37,6 +38,15 @@ gulp.task 'watch', ->
   gulp.watch './_scss/**/*.scss', ['css']
 
 
+# deploy to GitHub Pages, master branch
+gulp.task 'gh-pages', ->
+	return gulp.src('./_site/**/*')
+						 .pipe(ghPages({
+						 		branch: 'master',
+						 		push: no
+						 	}))
+
 # default task (called when we run `gulp` from cli)
 gulp.task 'default', ['watch', 'css', 'browser-sync']
 gulp.task 'build', ['css']
+gulp.task 'deploy', ['css', 'gh-pages']
