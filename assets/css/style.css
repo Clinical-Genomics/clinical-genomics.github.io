@@ -542,7 +542,13 @@ html {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-  font-size: .9rem; }
+  font-size: .9rem;
+  width: 100%; }
+
+.no-border td {
+  border: 0;
+  padding-left: 0;
+  padding-right: 0; }
 
 thead {
   border-bottom: 2px solid #d9e0e2; }
@@ -557,6 +563,16 @@ th {
 
 tr:nth-child(even) {
   background-color: #f6f8f8; }
+
+.float-left {
+  float: left; }
+
+.float-right {
+  float: right; }
+
+.img-sm {
+  height: 85px;
+  margin-top: 10px; }
 
 .cg-content {
   background-color: #f8f9fa;

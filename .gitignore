@@ -7,3 +7,4 @@ _site/
 .vagrant
 node_modules/
 _DEV/
+tmp/
