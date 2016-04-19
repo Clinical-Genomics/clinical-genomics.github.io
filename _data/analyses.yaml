@@ -1,7 +1,15 @@
 - code: EXOSXTR100
   description: Klinisk helexomsekvensering, standard
+  detailed_description: >
+    Standard helexomsekvensering.
+  limitations: >
+    Only exonic regions of the genome are enriched for and go on to sequencing.
+  accredited: yes
   library_prep: SureSelect XT (Agilent Technologies)
   sequencing_depth: 100 M läspar (75 M garanterat)
+  sample_amount: ">3000 ng DNA"
+  response_time: 2 veckor
+  delivery: Scout
   misc: ">3000 ng DNA"
 
 - code: EXOSLIR100

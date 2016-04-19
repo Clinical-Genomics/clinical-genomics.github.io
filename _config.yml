@@ -14,5 +14,12 @@ collections:
 markdown: kramdown
 permalink: pretty
 sass:
-  sass_dir: _sass
+  sass_dir: _scss
 exclude: ["node_modules"]
+
+page_gen-dirs: true # uncomment, if you prefer to generate named folders
+page_gen:
+  - data: analyses
+    template: analysis
+    name: code
+    dir: analyser

@@ -1,0 +1,71 @@
+---
+layout: base
+---
+
+<table class="no-border">
+  <tbody>
+    <tr>
+      <td><h1>{{ page.code }}</h1></td>
+      {% if page.accredited %}
+        <td>
+          <img src="/assets/img/solo-logo-swedac.png" alt="accreditation logo" class="img-sm float-right">
+        </td>
+      {% endif %}
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table>
+  <tbody>
+    <tr>
+      <th>Beskrivning</th>
+      <td>{{ page.description }}</td>
+    </tr>
+
+    <tr>
+      <th>Biblioteksberedning</th>
+      <td>{{ page.library_prep }}</td>
+    </tr>
+
+    <tr>
+      <th>Sekvenseringsdjup</th>
+      <td>{{ page.sequencing_depth }}</td>
+    </tr>
+
+    <tr>
+      <th>Provmängd</th>
+      <td>{{ page.sample_amount }}</td>
+    </tr>
+
+    <tr>
+      <th>Övriga provkrav</th>
+      <td>{{ page.misc }}</td>
+    </tr>
+
+    <tr>
+      <th>Ackrediterat</th>
+      <td>{{ 'Ja' if page.accredited else 'Nej' }}</td>
+    </tr>
+
+    <tr>
+      <th>Leverans</th>
+      <td>{{ page.delivery }}</td>
+    </tr>
+
+    <tr>
+      <th>Svarstid</th>
+      <td>{{ page.response_time }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Detaljerad beskrivning</h2>
+<p>{{ page.detailed_description }}</p>
+
+<h2>Begränsningar</h2>
+<p>{{ page.limitations }}</p>
+
+<hr />
+<i>End of report</i>
