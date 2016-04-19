@@ -41,10 +41,7 @@ gulp.task 'watch', ->
 # deploy to GitHub Pages, master branch
 gulp.task 'gh-pages', ->
 	return gulp.src('./_site/**/*')
-						 .pipe(ghPages({
-						 		branch: 'master',
-						 		push: no
-						 	}))
+						 .pipe(ghPages({ branch: 'master' }))
 
 # default task (called when we run `gulp` from cli)
 gulp.task 'default', ['watch', 'css', 'browser-sync']
