@@ -46,7 +46,7 @@ layout: base
 
     <tr>
       <th>Ackrediterat</th>
-      <td>{{ 'Ja' if page.accredited else 'Nej' }}</td>
+      <td>{% if page.accredited %}Ja{% else %}Nej{% endif %}</td>
     </tr>
 
     <tr>
