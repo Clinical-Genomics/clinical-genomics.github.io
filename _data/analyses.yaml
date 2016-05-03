@@ -49,7 +49,7 @@
     och kan därmed leda till att ett större antal varianter kan detekteras.
   library_prep: TruSeq PCR free (Illumina)
   sequencing_depth: 60x täckningsgrad
-   response_time: 21 dagar
+  response_time: 21 dagar
   accredited: yes
   sample_amount: ">2000 ng (fluorescence)"
   #Automatiserad biblioteksberedning: Ja (1464); Nej (1057)
