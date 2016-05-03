@@ -1,21 +1,28 @@
 - code: EXOSXTR100
   description: Klinisk helexomsekvensering, standard
   detailed_description: >
-    Standard helexomsekvensering.
+    Standard helexomsekvensering
   limitations: >
     Only exonic regions of the genome are enriched for and go on to sequencing.
   accredited: yes
   library_prep: SureSelect XT (Agilent Technologies)
   sequencing_depth: 100 M läspar (75 M garanterat)
   sample_amount: ">3000 ng DNA"
-  response_time: 2 veckor
-  delivery: Scout
+  response_time: 21 dagar
+  delivery: fastq, SNV och InDel varianter och/eller Scout
   misc: ">3000 ng DNA"
 
 - code: EXOSLIR100
   description: Klinisk helexomsekvensering, low input
+  detailed_description: >
+    Low input helexomsekvensering
+  limitations: >
+    Only exonic regions of the genome are enriched for and go on to sequencing.
+  accredited: yes
   library_prep: SureSelect XT (Agilent Technologies)
   sequencing_depth: 100 M läspar (75 M garanterat)
+  response_time: 21 dagar
+  delivery: fastq, SNV och InDel varianter och/eller Scout
   misc: ">200 ng DNA"
 
 - code: EXOSFFR100
@@ -26,6 +33,20 @@
 
 - code: WGSPCFC060
   description: Klinisk helgenomsekvensering utan amplifiering
+  detailed_description: >
+    Inkomande DNA ankomstkontrolleras med Qubit (2.0) och fragmenteras därefter till ca 350bp (Covaris S2 för enskilda prov 
+    eller E220 för större batcher). Därpå följer en manuell biblioteksberedning (1057) eller automatiserad (1464, Agilent NGS Workstation B) 
+    av provet inklusive adapter ligering enligt illuminas TruSeq DNA PCR free protokoll. Adaptorerna innehåller en index sekvens som fungerar 
+    som en unik identifierare, endast ett prov per batch kan inneha den unika index kombinationen. Indexerade bibliotek storleksselekteras med
+    kulbaserade tvättsteg. Färdigt bibliotek kvantifieras med qPCR (KAPA) genom automatiserat metod på NGS workstation B, Agilent. 
+    Sekvensering sker med Illuminas HiSeq X teknologi till 30x coverage (26x garanterat). Sekvenserningstekniken bygger på en 
+    8-kanalig flödescell där varje kanal består av ett stort antal nanoporer i en ordnad struktur. Sekvenseringen bygger på att det endast
+    finns ett enkelsträngat DNA fragment per nanopor och att den komplementära strängen byggs upp med en bas i taget och varje bas är 
+    inmärkt med en florofor som detekteras av en laser, detta kallas för Sequencing By Synthesis (SBS) teknik. 
+  limitations: >
+    I helgenomsekvensering kommer vissa regioner att inte detekteras tillförlitligt. Detta inkluderar bland annat repetitiva regioner i genomet. 
+   Den PCR-fria preppen ger en minskad bias och bättre täckning av GC/AT rika regioner än metoder som använder sig av PCR amplifiering,
+   och kan därmed leda till att ett större antal varianter kan detekteras.
   library_prep: TruSeq PCR free (Illumina)
   sequencing_depth: 60x täckningsgrad
   misc: ">1100ng"
@@ -33,8 +54,13 @@
 - code: WGSPCFC030
   description: Klinisk helgenomsekvensering utan amplifiering
   library_prep: TruSeq PCR free (Illumina)
-  sequencing_depth: 30x täckningsgrad
-  misc: ">1100ng"
+  sequencing_depth: 30x täckningsgrad (26x garanteras)
+  response_time: 21 dagar
+  accredited: yes
+  sample_amount: ">2000 ng (fluorescence)
+  Automatiserad biblioteksberedning: Ja (1464); Nej (1057)
+  delivery: fastq, SNV och InDel varianter och/eller Scout
+  misc: Högmolekylärt DNA, koncentration 50-250 ng/ul, provvolym 20-50 ul. Ursprung: Humant eller bakteriellt DNA.
 
 - code: EXXCUSR100
   description: >
