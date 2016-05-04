@@ -4,7 +4,7 @@
     Standard helexomsekvensering
   limitations: >
     Only exonic regions of the genome are enriched for and go on to sequencing.
-  Automated_library preparation: Yes (1314); No (1079)
+  automated_libprep: Yes (1314); No (1079)
   accredited: yes
   library_prep: SureSelect XT (Agilent Technologies)
   sequencing_depth: 100 M läspar (75 M garanterat)
@@ -19,7 +19,7 @@
     Low input helexomsekvensering
   limitations: >
     Only exonic regions of the genome are enriched for and go on to sequencing.
-  Automated_library preparation: Yes (1314); No (1079)
+  automated_libprep: Yes (1314); No (1079)
   accredited: yes
   library_prep: SureSelect XT (Agilent Technologies)
   sequencing_depth: 100 M läspar (75 M garanterat)
@@ -41,7 +41,7 @@
     av provet inklusive adapter ligering enligt illuminas TruSeq DNA PCR free protokoll. Adaptorerna innehåller en index sekvens som fungerar
     som en unik identifierare, endast ett prov per batch kan inneha den unika index kombinationen. Indexerade bibliotek storleksselekteras med
     kulbaserade tvättsteg. Färdigt bibliotek kvantifieras med qPCR (KAPA) genom automatiserat metod på NGS workstation B, Agilent.
-    Sekvensering sker med Illuminas HiSeq X teknologi till 30x coverage (26x garanterat). 
+    Sekvensering sker med Illuminas HiSeq X teknologi till 30x coverage (26x garanterat).
   limitations: >
     I helgenomsekvensering kommer vissa regioner att inte detekteras tillförlitligt. Detta inkluderar bland annat repetitiva regioner i genomet.
     Den PCR-fria preppen ger en minskad bias och bättre täckning av GC/AT rika regioner än metoder som använder sig av PCR amplifiering,
@@ -49,10 +49,10 @@
   library_prep: TruSeq PCR free (Illumina)
   sequencing_depth: 60x täckningsgrad
   response_time: 21 dagar
-  Automated_library preparation: Yes (1464); No (1057)
+  automated_libprep: Yes (1464); No (1057)
   accredited: yes
   sample_amount: ">2000 ng (fluorescence)"
-  #Automatiserad biblioteksberedning: Ja (1464); Nej (1057)
+  automated_libprep: Ja (1464); Nej (1057)
   delivery: fastq, SNV och InDel varianter och/eller Scout
   misc: >
     Högmolekylärt DNA, koncentration 50-250 ng/ul, provvolym 20-50 ul.
@@ -66,17 +66,17 @@
     av provet inklusive adapter ligering enligt illuminas TruSeq DNA PCR free protokoll. Adaptorerna innehåller en index sekvens som fungerar
     som en unik identifierare, endast ett prov per batch kan inneha den unika index kombinationen. Indexerade bibliotek storleksselekteras med
     kulbaserade tvättsteg. Färdigt bibliotek kvantifieras med qPCR (KAPA) genom automatiserat metod på NGS workstation B, Agilent.
-    Sekvensering sker med Illuminas HiSeq X teknologi till 30x coverage (26x garanterat). 
+    Sekvensering sker med Illuminas HiSeq X teknologi till 30x coverage (26x garanterat).
     I helgenomsekvensering kommer vissa regioner att inte detekteras tillförlitligt. Detta inkluderar bland annat repetitiva regioner i genomet.
     Den PCR-fria preppen ger en minskad bias och bättre täckning av GC/AT rika regioner än metoder som använder sig av PCR amplifiering,
     och kan därmed leda till att ett större antal varianter kan detekteras.
   library_prep: TruSeq PCR free (Illumina)
   sequencing_depth: 30x täckningsgrad (26x garanteras)
   response_time: 21 dagar
-  Automated_library preparation: Yes (1464); No (1057)
+  automated_libprep: Yes (1464); No (1057)
   accredited: yes
   sample_amount: ">2000 ng (fluorescence)"
-  #Automatiserad biblioteksberedning: Ja (1464); Nej (1057)
+  automated_libprep: Ja (1464); Nej (1057)
   delivery: fastq, SNV och InDel varianter och/eller Scout
   misc: >
     Högmolekylärt DNA, koncentration 50-250 ng/ul, provvolym 20-50 ul.

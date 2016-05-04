@@ -9,12 +9,14 @@ För varje projekt identifierar vi tillsammans de methoder (laborativa och bioin
 
 Följande analyser finns uppsatta och är beställningsbara. Antalet reads kan justeras enligt önskemål och nedan följer exempel på analyser med 100 M läspar för exomprover och 60X/30X för WGS prover. Kontakta oss ifall någon annan typ av analys behövs.
 
+<div class="container">
 <table>
 	<thead>
 		<tr>
 			<th>Analyskod</th>
 			<th>Beskrivning</th>
 			<th>Bibliotekspreparering</th>
+			<th>Automatiserad prep.</th>
 			<th>Sekvenseringsdjup</th>
 			<th>Övrigt</th>
 		</tr>
@@ -30,12 +32,14 @@ Följande analyser finns uppsatta och är beställningsbara. Antalet reads kan j
 				</td>
 				<td>{{ analysis.description }}</td>
 				<td>{{ analysis.library_prep }}</td>
+				<td>{{ analysis.automated_libprep }}</td>
 				<td>{{ analysis.sequencing_depth }}</td>
 				<td>{{ analysis.misc }}</td>
 			</tr>
 		{% endfor %}
 	</tbody>
 </table>
+</div>
 
 ## Begränsning av analyserna
 

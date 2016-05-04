@@ -108,3 +108,8 @@ tr:nth-child(even) {
     background-color: rgba(#000, .05);
   }
 }
+
+.container {
+  width: 100%;
+  overflow: auto;
+}
