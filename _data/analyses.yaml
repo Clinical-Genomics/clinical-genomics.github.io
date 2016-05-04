@@ -67,6 +67,7 @@
     som en unik identifierare, endast ett prov per batch kan inneha den unika index kombinationen. Indexerade bibliotek storleksselekteras med
     kulbaserade tvättsteg. Färdigt bibliotek kvantifieras med qPCR (KAPA) genom automatiserat metod på NGS workstation B, Agilent.
     Sekvensering sker med Illuminas HiSeq X teknologi till 30x coverage (26x garanterat).
+   limitations: >
     I helgenomsekvensering kommer vissa regioner att inte detekteras tillförlitligt. Detta inkluderar bland annat repetitiva regioner i genomet.
     Den PCR-fria preppen ger en minskad bias och bättre täckning av GC/AT rika regioner än metoder som använder sig av PCR amplifiering,
     och kan därmed leda till att ett större antal varianter kan detekteras.
