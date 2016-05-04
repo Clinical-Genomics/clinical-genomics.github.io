@@ -597,3 +597,7 @@ tr:nth-child(even) {
     background-color: rgba(217, 224, 226, 0.2); }
   .cg-list-item.current {
     background-color: rgba(0, 0, 0, 0.05); }
+
+.container {
+  width: 100%;
+  overflow: auto; }
