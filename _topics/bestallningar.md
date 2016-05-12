@@ -18,7 +18,7 @@ För att diskutera nya projekt, kontakta [Valtteri Wirta](mailto:valtteri.wirta@
 
 **Veckoschema**
 
-Exomsekvensering/Low-input exomsekvensering (EXOSXTRxxx/EXOQXTRxxx) måndagar kl 12.00
+Exomsekvensering/Low-input exomsekvensering (EXOSXTRxxx/EXOSLIRxxx) måndagar kl 12.00
 
 Helgenomsekvensering (WGSPCFC030) onsdagar kl 08.00
 
@@ -62,7 +62,6 @@ För personlig leverans, kontakta oss i förväg.
 
 Vi är normalt på plats mellan 9 och 15. Receptionen på Scilifelab är öppen mellan 8 och 17.
 
-I korridoren utanför vårt lab finns en kyl där prover kan lämnas om vi inte är på plats. 
 
 **Telefon**: 08 - 5248 1500
 
