@@ -1,7 +1,10 @@
 - code: EXOSXTR100
   description: Klinisk helexomsekvensering, standard
   detailed_description: >
-    Standard helexomsekvensering
+    Ingångsmänden är minst 3000ng DNA. Inkomande DNA ankomstkontrolleras med Qubit (2.0) och fragmenteras därefter till ca 300bp 
+    (Covaris S2 för enskilda prov eller E220 för större batcher). Därpå följer en manuell biblioteksberedning (1079) eller automatiserad (1314, Agilent NGS Workstation B). Anrikning av exomet 
+    sker med Clinical Research Exome prober (Agilent Technologies). Indexering av prover sker efter anrikning. Färdiga bibliotek 
+    kvantifieriras med Qubit och Fragment analyzer.
   limitations: >
     Only exonic regions of the genome are enriched for and go on to sequencing.
   automated_libprep: Yes (1314); No (1079)
@@ -16,10 +19,12 @@
 - code: EXOSLIR100
   description: Klinisk helexomsekvensering, low input
   detailed_description: >
-    Low input helexomsekvensering
+   Ingångsmänden är minst 200ng DNA. Inkomande DNA ankomstkontrolleras med Qubit (2.0) och fragmenteras därefter till ca 250bp 
+   (Covaris S2). Därpå följer en manuell biblioteksberedning. Anrikning av exomet sker med Clinical Research Exome prober 
+   (Agilent Technologies). Indexering av prover sker efter anrikning. Färdiga bibliotek kvantifieriras med Qubit och Fragment analyzer.
   limitations: >
     Only exonic regions of the genome are enriched for and go on to sequencing.
-  automated_libprep: Yes (1314); No (1079)
+  automated_libprep: Yes (1314); No (1518)
   accredited: yes
   library_prep: SureSelect XT (Agilent Technologies)
   sequencing_depth: 100 M läspar (75 M garanterat)
@@ -41,7 +46,7 @@
     av provet inklusive adapter ligering enligt illuminas TruSeq DNA PCR free protokoll. Adaptorerna innehåller en index sekvens som fungerar
     som en unik identifierare, endast ett prov per batch kan inneha den unika index kombinationen. Indexerade bibliotek storleksselekteras med
     kulbaserade tvättsteg. Färdigt bibliotek kvantifieras med qPCR (KAPA) genom automatiserat metod på NGS workstation B, Agilent.
-    Sekvensering sker med Illuminas HiSeq X teknologi till 30x coverage (26x garanterat).
+    Sekvensering sker med Illuminas HiSeq X teknologi till 60x coverage.
   limitations: >
     I helgenomsekvensering kommer vissa regioner att inte detekteras tillförlitligt. Detta inkluderar bland annat repetitiva regioner i genomet.
     Den PCR-fria preppen ger en minskad bias och bättre täckning av GC/AT rika regioner än metoder som använder sig av PCR amplifiering,
