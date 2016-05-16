@@ -9,6 +9,8 @@ url: "http://www.clinicalgenomics.se"
 collections:
   topics:
     output: true
+  team:
+    output: true
 
 # Build settings
 markdown: kramdown
