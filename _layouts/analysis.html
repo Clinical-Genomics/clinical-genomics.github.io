@@ -51,7 +51,13 @@ layout: base
 
     <tr>
       <th>Ackrediterat</th>
-      <td>{% if page.accredited %}Ja{% else %}Nej{% endif %}</td>
+      <td>
+        {% if page.accredited %}
+          ISO/IEC 17025:2005
+        {% else %}
+          Nej
+        {% endif %}
+      </td>
     </tr>
 
     <tr>
