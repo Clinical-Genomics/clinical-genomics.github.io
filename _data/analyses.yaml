@@ -89,26 +89,31 @@
     Ursprung: Humant eller bakteriellt DNA.
 
 - code: EXXCUSR100
+  accredited: no
   description: >
     Prover helexomsekvenserade utanför Clinical Genomics där enbart dataanalys
     skall göras
 
 - code: WGXCUSC030
+  accredited: no
   description: >
     Prover helgenomsekvenserade utanför Clinical Genomics där enbart
     datanaanalys skall göras
 
 - code: MWGNXTR003
+  accredited: no
   description: Mikrobiell helgenomsekvensering
   library_prep: Nextera XT (Illumina)
   sequencing_depth: 3 M läspar
   misc: "> 6 ng DNA"
 
 - code: METNXTR020
+  accredited: no
   description: Mikrobiell metagenomiksekvensering
   library_prep: Nextera XT (Illumina)
   sequencing_depth: 20 M läspar
 
 - code: 16SAMPK050
+  accredited: no
   description: 16S amplikon sekvensering
   sequencing_depth: 50 K läspar
