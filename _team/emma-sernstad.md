@@ -1,7 +1,7 @@
 ---
 layout: base
 permalink: /team/emma-sernstad
-title: Robin Andeer
+title: Emma Sernstad
 ---
 
 # Emma Sernstad
