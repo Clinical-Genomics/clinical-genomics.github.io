@@ -65,5 +65,4 @@ Vi är normalt på plats mellan 9 och 15. Receptionen på Scilifelab är öppen 
 
 **Telefon**: 08 - 5248 1500
 
-### Specialinstruktioner för akuta prover
-Kontakta oss per telefon (08-5248 1500) omgående för att diskutera möjligheten till en akut analys. Generellt bör proverna vara oss tillhanda innan kl 09 för att kunna analyseras inom 48 timmar.
+
