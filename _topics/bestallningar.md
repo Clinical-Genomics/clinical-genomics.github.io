@@ -28,7 +28,7 @@ Standard - provet analyseras enligt veckoschemat.
 
 Förtur/prioriterat - provet analyseras enligt veckoschemat, men provet får förtur vid varje möjligt tillfälle. Tex först till sekvensering och först till bioinformatisk analys. Ingen extra kostnad för detta, men förutsätter ‘fair usage’.
 
-Express - provet analyseras snarast och utanför veckoschemat. Förväntad leveranstid ca 5 arbetsdagar. Extra kostnad 5000 kr. Tillgänglighet för denna analys bekräftas separat för varje prov. Denna analys är endast tillgänglig som exomsekvensering med XT metoden (analyskod EXOSXTRxxx/EXOSLIRxxx).
+Express - provet analyseras snarast och utanför veckoschemat. Förväntad leveranstid ca 5 arbetsdagar. Extra kostnad 5000 kr. Tillgänglighet för denna analys bekräftas separat för varje prov. 
 
 
 ## Leveransadresser
