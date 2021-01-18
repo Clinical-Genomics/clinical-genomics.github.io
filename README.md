@@ -1,3 +1,3 @@
 # Clinical Genomics
 
-Please go to [clinical.scilifelab.se](https://clinical.scilifelab.se/).
+For more information - Please go to [clinical.scilifelab.se](https://clinical.scilifelab.se/).
